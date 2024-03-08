@@ -13,7 +13,7 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
 [GitHub](https://github.com/shiatsumat), [Twitter](https://twitter.com/shiatsumat), [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/)
 [Email](mailto:yskm24t@is.s.u-tokyo.ac.jp)
 
-[Curriculum Vitae](./cv/Curriculum Vitae.pdf) (Last updated: Jan 25, 2024)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Mar 8, 2024)
 
 ## Papers
 
