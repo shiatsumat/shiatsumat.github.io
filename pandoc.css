@@ -1,0 +1,68 @@
+/* Based on https://gist.github.com/killercup/5917178 */
+header#title-block-header {
+  display: none;
+}
+
+html {
+  font-size: 110%;
+  overflow-y: scroll;
+}
+
+body {
+  color: #252525;
+  font-family: sans-serif;
+  line-height: 1.5;
+  padding: 1em;
+  margin: auto;
+  max-width: 50em;
+  background: white;
+}
+
+a {
+  color: #017aeb;
+  text-decoration: none;
+}
+a:hover {
+  color: #55a3ed;
+}
+a:active {
+  color: #ffaa00;
+}
+
+p {
+  margin: 0.5em 0.5em;
+}
+
+h1,
+h2,
+h3 {
+  margin: 1em 0em 0em;
+  color: #0e0e0e;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+h1 small {
+  font-size: 75%;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+ul,
+ol {
+  margin: 0.5em 0;
+}
+ul li,
+ol li {
+  margin: 0.5em 0;
+}
+
+/*# sourceMappingURL=pandoc.css.map */
