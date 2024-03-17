@@ -23,7 +23,7 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
   RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code.
   [__PLDI 2022__ (43rd ACM SIGPLAN Conference on Programming Language Design and Implementation)](https://pldi22.sigplan.org/). June 13-17, 2022.
   __Distinguished Paper Award!__
-  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704), [Authors'](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/papers/pldi2022-rusthornbelt.pdf)
+  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704), [Authors'](./papers/pldi2022-rusthornbelt.pdf)
   Artifacts: [Zenodo](https://zenodo.org/record/6501665#.YoycDmBByJE); [Coq mechanization](https://gitlab.mpi-sws.org/iris/lambda-rust/-/tree/masters/rusthornbelt), [Benchmarks](https://github.com/xldenis/rhb-specs)
   Talk at [PLDI 2022](https://pldi22.sigplan.org/): [Slides](./talks/pldi2022-rusthornbelt.pdf) ([Keynote](./talks/pldi2022-rusthornbelt.key)), [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI)
 
@@ -33,12 +33,12 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
   RustHorn: CHC-based Verification for Rust Programs.
   [__TOPLAS__ (ACM Transaction on Programming Languages and Systems), Vol. 43, No. 4](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021.
   Extended version of the same-titled ESOP 2020 paper.
-  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3462205), [Authors'](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/papers/toplas2021-rust-horn.pdf)
+  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3462205), [Authors'](./papers/toplas2021-rust-horn.pdf)
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi.
   RustHorn: CHC-based Verification for Rust Programs.
   [__ESOP 2020__ (29th European Symposium on Programming)](https://www.etaps.org/2020/esop). Apr 27-29, 2020.
   __Selected to TOPLAS Special Issue on ESOP 2020__
-  Paper: [Authors'](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/papers/esop2020-rust-horn.pdf), [Springer](https://doi.org/10.1007/978-3-030-44914-8_18), [arXiv](https://arxiv.org/abs/2002.09002)
+  Paper: [Authors'](./papers/esop2020-rust-horn.pdf), [Springer](https://doi.org/10.1007/978-3-030-44914-8_18), [arXiv](https://arxiv.org/abs/2002.09002)
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme): [Slides](./talks/etaps2021-esop2020-rust-horn.pdf) ([Keynote](./talks/etaps2021-esop2020-rust-horn.key)), [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55)
   Artifacts: [Zenodo](https://zenodo.org/record/4710723#.Yoycm2BByJE); [GitHub Repo](https://github.com/hopv/rust-horn)
 
@@ -47,18 +47,18 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
 - _Yusuke Matsushita_.
   Non-Step-Indexed Separation Logic with Invariants and Rust-Style Borrows (不変条件と Rust 流の借用を扱える非 Step-Indexed な分離論理).
   Ph.D. thesis. Dec 6, 2023.
-  Paper: [Author's](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/papers/phd-thesis.pdf)
-  Talk: [Slides](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/talks/phd-thesis-talk.pdf) ([Keynote](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/talks/phd-thesis-talk.key))
+  Paper: [Author's](./papers/phd-thesis.pdf)
+  Talk: [Slides](./talks/phd-thesis-talk.pdf) ([Keynote](./talks/phd-thesis-talk.key))
 - _Yusuke Matsushita_.
   Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy (預言の技術による Rust プログラムの拡張可能な機能正当性検証).
   Master's thesis. Feb 24, 2021. Predecessor of [the RustHornBelt paper](#rusthornbelt).
-  Paper: [Author's](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/papers/masters-thesis.pdf)
-  Talk: [Slides](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/talks/masters-thesis-talk.pdf) ([Keynote](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/talks/masters-thesis-talk.key))
+  Paper: [Author's](./papers/masters-thesis.pdf)
+  Talk: [Slides](./talks/masters-thesis-talk.pdf) ([Keynote](./talks/masters-thesis-talk.key))
 - _Yusuke Matsushita_.
   CHC-based Program Verification Exploiting Ownership Types (所有権型を利用した CHC ベースのプログラム検証).
   Senior thesis. Feb 28, 2019. Predecessor of [the RustHorn paper](#rusthorn).
-  Paper: [Author's](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/papers/senior-thesis.pdf)
-  Talk: [Slides](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/talks/senior-thesis-talk.pdf) ([Keynote](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/talks/senior-thesis-talk.key))
+  Paper: [Author's](./papers/senior-thesis.pdf)
+  Talk: [Slides](./talks/senior-thesis-talk.pdf) ([Keynote](./talks/senior-thesis-talk.key))
 
 ## Talks
 
@@ -77,7 +77,7 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
 
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi.
   所有権型を利用した CHC ベースのプログラム検証 (CHC-based Program Verification Exploiting Ownership Types).
-  [PPL 2019](https://jssst-ppl.org/workshop/2019/). Mar 6, 2019. [pdf](http://www.kb.is.s.u-tokyo.ac.jp/~yskm24t/posters/ppl2019-senior-thesis.pdf)
+  [PPL 2019](https://jssst-ppl.org/workshop/2019/). Mar 6, 2019. [pdf](./posters/ppl2019-senior-thesis.pdf)
 
 ## Articles
 
