@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Mar 12, 2024)
+(Last updated: Mar 18, 2024)
 
 I am a software scientist, specializing in formal verification of stateful programs, especially those written in [Rust](https://www.rust-lang.org/).
 From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en).
@@ -149,7 +149,7 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
 
 ### Piano and Music
 
-- [YouTube Channel](https://www.youtube.com/@shiatsumat)
+- [YouTube Channel @y.matsushita](https://www.youtube.com/@y.matsushita)
 - Mar 2022
   Gold Prize of [Japan J.S. Bach Music Concours](https://www.bach-concours.org/)
 - Dec 2019
