@@ -11,7 +11,7 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ), [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke), [ORCID](https://orcid.org/0000-0002-5208-3106)
 [GitHub](https://github.com/shiatsumat), [Twitter](https://twitter.com/shiatsumat), [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/)
-[Email](mailto:ysk.m24t@gmail.com)
+Email: ysk.m24t@gmail.com
 
 [Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Mar 8, 2024)
 
