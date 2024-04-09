@@ -17,26 +17,26 @@ Email: ysk.m24t@gmail.com
 
 ## Papers
 
-### RustHornBelt
-
+- Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori, Ryosuke Sato, Naoki Kobayashi.
+  Borrowable Fractional Ownership Types for Verification.
+  [__VMCAI 2024__](https://popl24.sigplan.org/home/VMCAI-2024). Jan 15-16, 2024.
+  Paper: [Springer](https://doi.org/10.1007/978-3-031-50521-8_11)
+  Talk at [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024): [YouTube](https://www.youtube.com/watch?v=fBKjam3PN3U)
 - _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer.
-  RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code.
-  [__PLDI 2022__ (43rd ACM SIGPLAN Conference on Programming Language Design and Implementation)](https://pldi22.sigplan.org/). June 13-17, 2022.
+  __RustHornBelt__: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code.
+  [__ACM PLDI 2022__](https://pldi22.sigplan.org/). June 13-17, 2022.
   __Distinguished Paper Award!__
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704), [Authors'](./papers/pldi2022-rusthornbelt.pdf)
   Artifacts: [Zenodo](https://zenodo.org/record/6501665#.YoycDmBByJE); [Coq mechanization](https://gitlab.mpi-sws.org/iris/lambda-rust/-/tree/masters/rusthornbelt), [Benchmarks](https://github.com/xldenis/rhb-specs)
   Talk at [PLDI 2022](https://pldi22.sigplan.org/): [Slides](./talks/pldi2022-rusthornbelt.pdf) ([Keynote](./talks/pldi2022-rusthornbelt.key)), [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI)
-
-### RustHorn
-
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi.
-  RustHorn: CHC-based Verification for Rust Programs.
-  [__TOPLAS__ (ACM Transaction on Programming Languages and Systems), Vol. 43, No. 4](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021.
+  __RustHorn__: CHC-based Verification for Rust Programs.
+  [__ACM TOPLAS__](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021.
   Extended version of the same-titled ESOP 2020 paper.
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3462205), [Authors'](./papers/toplas2021-rust-horn.pdf)
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi.
-  RustHorn: CHC-based Verification for Rust Programs.
-  [__ESOP 2020__ (29th European Symposium on Programming)](https://www.etaps.org/2020/esop). Apr 27-29, 2020.
+  __RustHorn__: CHC-based Verification for Rust Programs.
+  [__ESOP 2020__](https://www.etaps.org/2020/esop). Apr 27-29, 2020.
   __Selected to TOPLAS Special Issue on ESOP 2020__
   Paper: [Authors'](./papers/esop2020-rust-horn.pdf), [Springer](https://doi.org/10.1007/978-3-030-44914-8_18), [arXiv](https://arxiv.org/abs/2002.09002)
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme): [Slides](./talks/etaps2021-esop2020-rust-horn.pdf) ([Keynote](./talks/etaps2021-esop2020-rust-horn.key)), [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55)
