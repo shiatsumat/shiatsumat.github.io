@@ -2,7 +2,7 @@
 
 ## 松下 祐介 / Yusuke Matsushita
 
-_Published in 理学のススメ (An Encouragement of Science) No. 7 ([PDF](https://dl5s7ayfvssw3.cloudfront.net/WEB_info/p/pub/8311/54-1.pdf#page=7), [HTML](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/page/7899/)) in the University of Tokyo 理学部ニュース (News from Faculty of Science) Vol. 54, No. 1, May 2022. Originally in Japanese, Translated into English by the Author._
+_Published in 理学のススメ (An Encouragement of Science) No. 7 ([PDF](https://dl5s7ayfvssw3.cloudfront.net/WEB_info2/p/pub/8311/54-1.pdf#page=7), [HTML](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/page/7899/)) in the University of Tokyo 理学部ニュース (News from Faculty of Science) Vol. 54, No. 1, May 2022. Originally in Japanese, Translated into English by the Author._
 
 私たちの暮らしは、たくさんの「ソフトウェア」によって支えられている。まずパソコンやスマホの色々なアプリケーションが思い浮かぶだろうか。その裏側でマウスやタッチパネル、グラフィクス、ネットワークを動かすのもソフトウェアだ。さらには、身の回りの家電、銀行のATM、街を走る自動車、交通を守る信号機、病院のMRI、航空機や人工衛星、それらを制御しているのもソフトウェアだ。
 Our life is founded on various kinds of _software_. Apps of laptops and smart phones may come across your mind as software. Also, behind that, mouses, touch panels, graphics and networks are driven by another kind of software, too. Furthermore, home appliances around you, bank ATMs, cars and traffic lights in your city, MRIs in the hospital, airplanes and artificial satellites in the sky, they are all managed by some software.
