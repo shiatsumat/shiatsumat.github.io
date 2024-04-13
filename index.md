@@ -62,7 +62,7 @@ Email: ysk.m24t@gmail.com
 
 ## Talks
 
-- _Yusuke Matsushita_ and Takashi Nakayama. ソフトウェアの科学 バグのない世界を目指して (Science of Software, Aspiring to a World Free of Bugs).
+- _Yusuke Matsushita_ and Takashi Nakayama. ソフトウェアの科学 〜バグのない世界を目指して〜 (Science of Software, Aspiring to a World Free of Bugs).
   Open Campus 2023, the Faculty of Science, the University of Tokyo. Aug 2, 2023. [Slides](./talks/open-campus-2023-talk.pdf) ([Keynote](./talks/open-campus-2023-talk.key)), [YouTube](https://www.youtube.com/watch?v=DDdEtx05dZ4)
 - _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer.
   [RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code](#rusthornbelt). PLDI 2022.
