@@ -17,7 +17,7 @@ Email: ysk.m24t@gmail.com
 
 ## Papers
 
-- Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori, Ryosuke Sato, Naoki Kobayashi.
+- Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori, Ryosuke Sato and Naoki Kobayashi.
   Borrowable Fractional Ownership Types for Verification.
   [__VMCAI 2024__](https://popl24.sigplan.org/home/VMCAI-2024). Jan 15-16, 2024.
   Paper: [Springer](https://doi.org/10.1007/978-3-031-50521-8_11)
