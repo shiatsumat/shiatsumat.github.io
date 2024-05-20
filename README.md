@@ -1,2 +1,3 @@
 # shiatsumat.github.io
-GitHub Pages
+
+GitHub Pages https://shiatsumat.github.io/
