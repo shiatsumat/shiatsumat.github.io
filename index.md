@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 9, 2024)
+(Last updated: Jul 23, 2024)
 
 I am a software scientist, specializing in formal verification of stateful programs, especially those written in [Rust](https://www.rust-lang.org/).
 From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en).
@@ -46,17 +46,19 @@ Email: ysk.m24t@gmail.com
 
 - _Yusuke Matsushita_.
   Non-Step-Indexed Separation Logic with Invariants and Rust-Style Borrows (不変条件と Rust 流の借用を扱える非 Step-Indexed な分離論理).
-  Ph.D. thesis. Dec 6, 2023.
+  Ph.D. thesis. University of Tokyo. Supervised by Prof. Naoki Kobayashi. Dec 6, 2023.
   Paper: [Author's](./papers/phd-thesis.pdf)
   Talk: [Slides](./talks/phd-thesis-talk.pdf) ([Keynote](./talks/phd-thesis-talk.key))
 - _Yusuke Matsushita_.
   Extensible Functional-Correctness Verification of Rust Programs by the Technique of Prophecy (預言の技術による Rust プログラムの拡張可能な機能正当性検証).
-  Master's thesis. Feb 24, 2021. Predecessor of [the RustHornBelt paper](#rusthornbelt).
+  Master's thesis. University of Tokyo. Supervised by Prof. Naoki Kobayashi. Feb 24, 2021.
+  Predecessor of [the RustHornBelt paper](#rusthornbelt).
   Paper: [Author's](./papers/masters-thesis.pdf)
   Talk: [Slides](./talks/masters-thesis-talk.pdf) ([Keynote](./talks/masters-thesis-talk.key))
 - _Yusuke Matsushita_.
   CHC-based Program Verification Exploiting Ownership Types (所有権型を利用した CHC ベースのプログラム検証).
-  Senior thesis. Feb 28, 2019. Predecessor of [the RustHorn paper](#rusthorn).
+  Senior thesis. University of Tokyo. Supervised by Prof. Naoki Kobayashi. Feb 28, 2019.
+  Predecessor of [the RustHorn paper](#rusthorn).
   Paper: [Author's](./papers/senior-thesis.pdf)
   Talk: [Slides](./talks/senior-thesis-talk.pdf) ([Keynote](./talks/senior-thesis-talk.key))
 
