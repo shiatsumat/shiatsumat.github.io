@@ -133,6 +133,8 @@ Email: ysk.m24t@gmail.com
 
 ### Teaching
 
+- Aug 2024
+  [Lecturer](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor35) of [S15 Rust プログラム検証ゼミ (Rust Program Verification Seminar)](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/kaihatsu.html#s15) at [Security Camp 2024](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/index.html) by [IPA](https://www.ipa.go.jp/en/)
 - Apr 2022 - Aug 2022
   Teaching assistant of "Functional and Logic Programming Lab" at Dept. of Information Science, School of Science, UTokyo
 - Sept 2019 - Feb 2020
