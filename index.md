@@ -105,6 +105,11 @@ Email: ysk.m24t@gmail.com
 - Apr 2024 - (Expected)
   Postdoctoral researcher at [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en)
 
+### Service
+
+- Jan 2025 - Mar 2025
+  Program committee member of [PPL 2025](https://jssst-ppl.org/workshop/2025/).
+
 ### Internship
 
 - Nov 2022 - Feb 2023
