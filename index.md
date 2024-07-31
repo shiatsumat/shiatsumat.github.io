@@ -77,8 +77,8 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi.
   [RustHorn: CHC-based Verification for Rust Programs](#rusthorn). ESOP 2020.
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme). Mar 31, 2021 (delayed by one year due to the pandemic). [Slides](./talks/etaps2021-esop2020-rust-horn.pdf) ([Keynote](./talks/etaps2021-esop2020-rust-horn.key)), [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55)
-  Talk at [JSSST 2020](https://jssst2020.wordpress.com/) (Invited, Japanese). Sept 10, 2020. [Slides](./talks/jssst2020-esop2020-rust-horn.pdf) ([Keynote](./talks/jssst2020-esop2020-rust-horn.key)), [YouTube](https://www.youtube.com/watch?v=Ah_Bds6I_YI)
-  Talk at [PPL 2020](https://jssst-ppl.org/workshop/2020/) (Japanese). Mar 4, 2020. [Slides](./talks/ppl2020-esop2020-rust-horn.pdf) ([Keynote](./talks/ppl2020-esop2020-rust-horn.key))
+  __Invited talk__ at [JSSST 2020](https://jssst2020.wordpress.com/). Sept 10, 2020. [Slides](./talks/jssst2020-esop2020-rust-horn.pdf) ([Keynote](./talks/jssst2020-esop2020-rust-horn.key)), [YouTube](https://www.youtube.com/watch?v=Ah_Bds6I_YI)
+  Talk at [PPL 2020](https://jssst-ppl.org/workshop/2020/). Mar 4, 2020. [Slides](./talks/ppl2020-esop2020-rust-horn.pdf) ([Keynote](./talks/ppl2020-esop2020-rust-horn.key))
 
 ## Posters
 
@@ -119,7 +119,7 @@ Email: ysk.m24t@gmail.com
   Research internship (Online) at the [RustBelt Team](https://plv.mpi-sws.org/rustbelt/), [MPI-SWS](https://www.mpi-sws.org/), supervised by [Derek Dreyer](https://people.mpi-sws.org/~dreyer/)
 - Aug 2019 - Jan 2020
   Frontend and backend web engineer at [CADDi](https://caddi.jp/) (building a manufacturing platform), Tokyo, Japan
-  [Interview Article (Japanese)](https://www.wantedly.com/companies/caddi/post_articles/200577)
+  [Interview Article](https://www.wantedly.com/companies/caddi/post_articles/200577)
 - Mar 2017 - Mar 2019
   Software engineer at [Morishita Lab](https://mlab.cb.k.u-tokyo.ac.jp/en/) (studying genome informatics), Dept. of Computational Biology and Medical Sciences, Grad School of Frontier Sciences, UTokyo, Japan
 
