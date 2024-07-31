@@ -6,7 +6,8 @@
 
 (Last updated: Jul 31, 2024)
 
-I am a software scientist, specializing in formal verification of stateful programs, especially those written in [Rust](https://www.rust-lang.org/).
+I am a researcher of software science.
+I primarily study formal verification of stateful programs, especially those written in [Rust](https://www.rust-lang.org/).
 From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en).
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ), [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke), [ORCID](https://orcid.org/0000-0002-5208-3106)
