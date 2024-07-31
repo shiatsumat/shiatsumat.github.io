@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Jul 23, 2024)
+(Last updated: Jul 31, 2024)
 
 I am a software scientist, specializing in formal verification of stateful programs, especially those written in [Rust](https://www.rust-lang.org/).
 From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en).
@@ -64,6 +64,8 @@ Email: ysk.m24t@gmail.com
 
 ## Talks
 
+- _Yusuke Matsushita_. 分離論理 Iris の世界 (The World of Separation Logic Iris).
+  __Invited lecture__ at [PPL Summer School 2024](http://ppl.jssst.or.jp/index.php?ss2024). Sept 9, 2024.
 - _Yusuke Matsushita_. Rust から広がるプログラム検証・テストの新展望 (New Perspectives on Program Verification and Testing Spreading from Rust).
   __Invited talk__ at [PRO-2024-1](https://sigpro.ipsj.or.jp/pro2024-1/). Jun 14, 2024. [Slides](./talks/pro-2024-1-invited-talk.pdf) ([Keynote](./talks/pro-2024-1-invited-talk.key))
 - _Yusuke Matsushita_ and Takashi Nakayama. ソフトウェアの科学 〜バグのない世界を目指して〜 (Science of Software, Aspiring to a World Free of Bugs).
