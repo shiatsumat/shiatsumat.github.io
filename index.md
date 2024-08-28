@@ -88,6 +88,9 @@ Email: ysk.m24t@gmail.com
 
 ## Articles
 
+- _Yusuke Matsushita_. Non-Step-Indexed Separation Logic with Invariants and Rust-Style Borrows.
+  研究会推薦博士論文速報 (Group-Recommended Ph.D. Theses Express) by Information Processing Society of Japan. Aug 15, 2024.
+  [HTML](https://note.com/ipsj/n/nc0ae275045eb) (Japanese)
 - _Yusuke Matsushita_. ソフトウェアの世界を切り拓く (Breaking Ground in the World of Software).
   理学のススメ (An Encouragement of Science) No. 7 in the University of Tokyo 理学部ニュース (News from Faculty of Science) Vol. 54, No. 1, May 2022.
   Text: [Author's](./articles/2022-break-ground-software.html) (Japanese & English); [PDF](https://dl5s7ayfvssw3.cloudfront.net/WEB_info2/p/pub/8311/54-1.pdf#page=7), [HTML](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/page/7899/) (Japanese)
