@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Jul 31, 2024)
+(Last updated: Aug 30, 2024)
 
 I am a researcher of software science.
 I primarily study formal verification of stateful programs, especially those written in [Rust](https://www.rust-lang.org/).
@@ -14,7 +14,7 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
 [GitHub](https://github.com/shiatsumat), [Twitter](https://twitter.com/shiatsumat), [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/)
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Jul 31, 2024)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Aug 30, 2024)
 
 ## Papers
 
