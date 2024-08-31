@@ -29,7 +29,7 @@ Email: ysk.m24t@gmail.com
   __Distinguished Paper Award!__
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704), [Authors'](./papers/pldi2022-rusthornbelt.pdf)
   Artifacts: [Zenodo](https://zenodo.org/record/6501665#.YoycDmBByJE); [Coq mechanization](https://gitlab.mpi-sws.org/iris/lambda-rust/-/tree/masters/rusthornbelt), [Benchmarks](https://github.com/xldenis/rhb-specs)
-  Talk at [PLDI 2022](https://pldi22.sigplan.org/): [Slides](./talks/pldi2022-rusthornbelt.pdf) ([Keynote](./talks/pldi2022-rusthornbelt.key)), [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI)
+  Talk at [PLDI 2022](https://pldi22.sigplan.org/): [Slides](./talks/pldi2022-rusthornbelt.pdf), [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI)
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi.
   __RustHorn__: CHC-based Verification for Rust Programs.
   [__ACM TOPLAS__](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021.
@@ -73,7 +73,7 @@ Email: ysk.m24t@gmail.com
   Open Campus 2023, the Faculty of Science, the University of Tokyo. Aug 2, 2023. [Slides](./talks/open-campus-2023-talk.pdf) ([Keynote](./talks/open-campus-2023-talk.key)), [YouTube](https://www.youtube.com/watch?v=DDdEtx05dZ4)
 - _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer.
   [RustHornBelt: A Semantic Foundation for Functional Verification of Rust Programs with Unsafe Code](#rusthornbelt). PLDI 2022.
-  Talk at [PLDI 2022](https://pldi22.sigplan.org/). June 17, 2022. [Slides](./talks/pldi2022-rusthornbelt.pdf) ([Keynote](./talks/pldi2022-rusthornbelt.key)), [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI)
+  Talk at [PLDI 2022](https://pldi22.sigplan.org/). June 17, 2022. [Slides](./talks/pldi2022-rusthornbelt.pdf), [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI)
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi.
   [RustHorn: CHC-based Verification for Rust Programs](#rusthorn). ESOP 2020.
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme). Mar 31, 2021 (delayed by one year due to the pandemic). [Slides](./talks/etaps2021-esop2020-rust-horn.pdf) ([Keynote](./talks/etaps2021-esop2020-rust-horn.key)), [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55)
