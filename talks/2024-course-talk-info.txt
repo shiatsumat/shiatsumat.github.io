@@ -1,0 +1,26 @@
+﻿講演言語：  (1) 日本語
+講演者御名前（日本語）： 松下 祐介
+講演者御名前（英語）： Yusuke Matsushita
+講演者御所属・肩書き（日本語）：
+京都大学 情報学研究科 五十嵐・末永研 特定研究員 (学振 PD)
+講演者御所属・肩書き（英語）：
+Program-Specific Researcher (JSPS PD), Igarashi & Suenaga Lab, Graduate School of Informatics, Kyoto University
+
+御講演タイトル（日本語・必須）：
+Rust の面白さ
+御講演タイトル（英語・必須）：
+The Fun of Rust
+
+御講演概要（日本語・必須）：
+2015 年に登場したプログラミング言語 Rust。この言語は、C/C++ 同様に低レベルのメモリ・スレッド操作で高性能な計算を実現しつつ、革新的な「所有権型」の力でコンパイル時に高度なメモリ・スレッド安全性を保証してくれます。Rust はソフトウェア産業で急速に普及して現実の開発で役立っている一方で、Rust の所有権型は学術的にも興味深く、ソフトウェア科学・工学で活発な研究対象となっています。
+この講演では、Rust の面白さについて、特に所有権型と形式検証の観点からお話しします。
+
+御講演概要（英語・必須）：
+The Rust programming language, released in 2015, enables high-performance computation with low-level memory and thread operations while guaranteeing high-level memory and thread safety at compile time through its innovative "ownership types". While Rust is rapidly gaining popularity and serving real-world development in the software industry, Rust's ownership types are of academic interest and have been the target of active research in software science and engineering.
+In this talk, I will explain the fun of Rust, especially from the perspective of ownership types and formal verification.
+
+御略歴（数行程度）（御講演の前に紹介します．英語か日本語どちらかで結構です）：
+2019年　東京大学 理学部情報科学科 卒業 (指導教官: 小林直樹)
+2024年　東京大学大学院 情報理工学系研究科 コンピュータ科学専攻 博士号取得 (指導教官: 小林直樹)
+現在　京都大学 情報学研究科 五十嵐・末永研 特定研究員 (学振 PD)
+ACM TOPLAS 2021 RustHorn、ACM PLDI 2022 RustHornBelt の研究が特に知られている。

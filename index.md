@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Aug 31, 2024)
+(Last updated: Feb 13, 2025)
 
 I am a researcher of software science. \
 I primarily study formal verification of stateful programs, especially those
@@ -20,10 +20,16 @@ From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Aug 30, 2024)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Feb 13, 2025)
 
 ## Papers
 
+- Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
+    Suenaga, Masaki Waga and Sho Yokoi. \
+  __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches. \
+  [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24-28, 2025. \
+  [Webpage](https://softmatcha.github.io/),
+    [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo)
 - Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori, Ryosuke Sato and Naoki
     Kobayashi. \
   Borrowable Fractional Ownership Types for Verification. \
@@ -94,25 +100,50 @@ Email: ysk.m24t@gmail.com
   Talk: [Slides](./talks/senior-thesis-talk.pdf)
     ([Keynote](./talks/senior-thesis-talk.key))
 
-## Talks
+## Lectures
 
+- _Yusuke Matsushita_. The Fun of Rust. \
+  Lecture for the Course of CCE, Grad School of Informatics, Kyoto University.
+    Dec 20, 2025. \
+  [Slides](./talks/2024-course-talk.pdf)
+    ([Keynote](./talks/2024-course-talk.key)),
+    [Info](./talks/2024-course-talk.txt)
 - _Yusuke Matsushita_. 分離論理 Iris の世界 (The World of Separation Logic Iris). \
   __Invited lecture__ at
     [PPL Summer School 2024](http://ppl.jssst.or.jp/index.php?ss2024). Sept
-    9, 2024. [Slides](./talks/ppl-ss-2024-iris-lecture.pdf)
-    ([Keynote](./talks/ppl2020-esop2020-rust-horn-talk.key))
-- _Yusuke Matsushita_. Rust から広がるプログラム検証・テストの新展望 (New Perspectives
-    on Program Verification and Testing Spreading from Rust). \
-  __Invited talk__ at [PRO-2024-1](https://sigpro.ipsj.or.jp/pro2024-1/). Jun
-    14, 2024. [Slides](./talks/pro-2024-1-invited-talk.pdf)
-    ([Keynote](./talks/pro-2024-1-invited-talk.key))
+    9, 2024. \
+    [Slides](./talks/ppl-ss-2024-iris-lecture.pdf)
+      ([Keynote](./talks/ppl2020-esop2020-rust-horn-talk.key)),
+      [YouTube](https://www.youtube.com/watch?v=uqZEJv9wvBA)
 - _Yusuke Matsushita_ and Takashi Nakayama.
     ソフトウェアの科学 〜バグのない世界を目指して〜 (Science of Software, Aspiring to a
     World Free of Bugs). \
   Open Campus 2023, the Faculty of Science, the University of Tokyo. Aug
-    2, 2023. [Slides](./talks/open-campus-2023-talk.pdf)
+    2, 2023. \
+  [Slides](./talks/open-campus-2023-talk.pdf)
     ([Keynote](./talks/open-campus-2023-talk.key)),
     [YouTube](https://www.youtube.com/watch?v=DDdEtx05dZ4)
+
+## Talks
+
+- _Yusuke Matsushita_, Kengo Hirata and Ryo Wakizaka. \
+  Concurrent Quantum Separation Logic for Fine-Grained Parallelism. \
+  Talk at [TPSA 2025](https://popl25.sigplan.org/home/tpsa-2025). Jan 21, 2025.
+    [Extended abstract](./papers/tpsa2025-cqsl.pdf),
+    [Slides](./talks/tpsa2025-cqsl-talk.pdf)
+    ([Powerpoint](./talks/tpsa2025-cqsl-talk.pptx)) \
+  Talk at [PLanQC 2025](https://popl25.sigplan.org/home/tpsa-2025) (Presented by
+    Ryo Wakizaka). Jan 25, 2025.
+    [Extended abstract](./papers/planqc2025-cqsl.pdf),
+    [Slides](./talks/planqc2025-cqsl-talk.pdf)
+    ([Powerpoint](./talks/planqc2025-cqsl-talk.pptx))
+- _Yusuke Matsushita_. \
+  Rust から広がるプログラム検証・テストの新展望 (New Perspectives on Program
+    Verification and Testing Spreading from Rust). \
+  __Invited talk__ at [PRO-2024-1](https://sigpro.ipsj.or.jp/pro2024-1/). Jun
+    14, 2024. \
+  [Slides](./talks/pro-2024-1-invited-talk.pdf)
+    ([Keynote](./talks/pro-2024-1-invited-talk.key))
 - _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   [RustHornBelt: A Semantic Foundation for Functional Verification of Rust
     Programs with Unsafe Code](#rusthornbelt). PLDI 2022. \
@@ -122,7 +153,7 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   [RustHorn: CHC-based Verification for Rust Programs](#rusthorn). ESOP 2020. \
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme). Mar 31,
-    2021 (delayed by one year due to the pandemic).
+    2021 (delayed by one year due to the pandemic). \
     [Slides](./talks/etaps2021-esop2020-rust-horn-talk.pdf)
     ([Keynote](./talks/etaps2021-esop2020-rust-horn-talk.key)),
     [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55) \
@@ -136,6 +167,10 @@ Email: ysk.m24t@gmail.com
 
 ## Posters
 
+- _Yusuke Matsushita_, Yudai Tanabe, Taro Sekiyama and Atsushi Igarashi. \
+  Linear Haskell での Rust 流借用の純粋な実現 (Pure Realization of Rust-Style
+    Borrows in Linear Haskell). \
+  [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 3-5, 2025.
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   所有権型を利用した CHC ベースのプログラム検証 (CHC-based Program Verification
     Exploiting Ownership Types). \
@@ -162,96 +197,96 @@ Email: ysk.m24t@gmail.com
 
 ## Grants
 
-- JSPS (学振) Research Fellowship for Young Scientists PD, Apr 2024 - Mar 2027 \
+- Apr 2025 – (Mar 2030) \
+  The Hakubi Project, Kyoto University \
+  Rust から広がる新時代のソフトウェア開発の探究 (Exploring a New Age of Software
+    Development Spreading from Rust)
+- Apr 2024 – Mar 2027 \
+  JSPS (学振) Research Fellowship for Young Scientists PD \
   堅牢で高性能なシステムソフトウェアのための基礎と応用 (Foundations and Applications for
     Robust and High-Performance System Software)
-- JSPS (学振) Research Fellowship for Young Scientists DC1, Apr 2021 - Mar 2024 \
+- Apr 2021 – Mar 2024 \
+  JSPS (学振) Research Fellowship for Young Scientists DC1 \
   堅牢で高性能なシステムプログラミング言語のための理論と応用 (Theory and Application for
     Robust and High-Performance Systems Programming Languages)
 
-## Experience
+## Work
 
-### Work
-
-<<<<<<< Updated upstream
-- Apr 2024 - (Expected) \
-  Postdoctoral researcher at
+- Apr 2025 – (Mar 2030) \
+  Program-Specific Assistant Professor at
+    [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng)
+    ([Info](https://www.hakubi.kyoto-u.ac.jp/rec/2024/informal-appointment-hakubi-researchers-global-type))
+- Apr 2024 – Mar 2025 \
+  JSPS Fellow (PD) at
     [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en)
-=======
-- Apr 2025 - (Five years at most)
-  Program-specific assistant professor at [Hakubi Center, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng)
-- Apr 2024 - Mar 2025
-  JSPS PD fellow at [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en)
->>>>>>> Stashed changes
 
-### Service
-
-- Jan 2025 - Mar 2025 \
-  Program committee member of [PPL 2025](https://jssst-ppl.org/workshop/2025/).
-
-### Internship
-
-- Nov 2022 - Feb 2023 \
-  Software engineer internship for Google ChromeOS, at
-    [Google Tokyo](https://careers.google.com/locations/tokyo/).
-- Sept 2020 - Dec 2020, Feb 2021 - July 2021 \
-  Research internship (Online) at the
-    [RustBelt Team](https://plv.mpi-sws.org/rustbelt/),
-    [MPI-SWS](https://www.mpi-sws.org/), supervised by
-    [Derek Dreyer](https://people.mpi-sws.org/~dreyer/)
-- Aug 2019 - Jan 2020 \
-  Frontend and backend web engineer at [CADDi](https://caddi.jp/) (building a
-    manufacturing platform), Tokyo, Japan \
-  [Interview Article](https://www.wantedly.com/companies/caddi/post_articles/200577)
-- Mar 2017 - Mar 2019 \
-  Software engineer at [Morishita Lab](https://mlab.cb.k.u-tokyo.ac.jp/en/)
-    (studying genome informatics), Dept. of Computational Biology and Medical
-    Sciences, Grad School of Frontier Sciences, UTokyo, Japan
-
-### Education
-
-- Apr 2021 - Mar 2024 \
-  Ph.D. of Computer Science \
-  [Kobayashi Lab](http://www.kb.is.s.u-tokyo.ac.jp/index.html.en), Dept. of
-    Computer Science,
-    [Grad School of IST, UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml)
-- Apr 2019 - Mar 2021 \
-  Master of Computer Science \
-  [Kobayashi Lab](http://www.kb.is.s.u-tokyo.ac.jp/index.html.en), Dept. of
-    Computer Science,
-    [Grad School of IST, UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml)
-- Apr 2017 - Mar 2019 \
-  Bachelor of Science \
-  Dept. of Information Science,
-    [School of Science, UTokyo](https://www.s.u-tokyo.ac.jp/en/)
-- Apr 2015 - Mar 2017 \
-  Natural Sciences I, College of Arts and Sciences Junior Div.,
-    [UTokyo](https://www.u-tokyo.ac.jp/en/index.html)
-- Apr 2009 - Mar 2015 \
-  [Nada Junior and Senior High School](http://www.nada.ac.jp/)
-
-### Teaching
+## Teaching
 
 - Aug 2024 \
   [Lecturer](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor35)
     of [S15 Rust プログラム検証ゼミ (Rust Program Verification Seminar)](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/kaihatsu.html#s15)
     at [Security Camp 2024](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/index.html)
     by [IPA](https://www.ipa.go.jp/en/)
-- Apr 2022 - Aug 2022 \
-  Teaching assistant of "Functional and Logic Programming Lab" at Dept. of
-    Information Science, School of Science, UTokyo
-- Sept 2019 - Feb 2020 \
-  Teaching assistant of "Processor and Compiler Lab" at Dept. of Information
-    Science, School of Science, UTokyo
-- Apr 2019 - Aug 2019 \
-  Teaching assistant of "Functional and Logic Programming Lab" at Dept. of
+- Apr 2022 – Aug 2022, Apr 2019 – Aug 2019 \
+  Teaching assistant of "Functional and Logic Programming Experiments" at Dept.
+    of Information Science, School of Science, UTokyo
+- Sept 2019 – Feb 2020 \
+  Teaching assistant of "Processor and Compiler Experiments" at Dept. of
     Information Science, School of Science, UTokyo
 - Mar 2018 \
   Lecturer of "Purely Functional Data Structures" at
-    [JOI 2017](https://www.ioi-jp.org/joi/2017/) Spring Training Camp
+    [JOI 2017 Spring Training Camp](https://www2.ioi-jp.org/joi/2017/gassyuku.html)
 - Aug 2017 \
   Tutor on "Purely Functional Data Structures" (Chris Okasaki) at
-    [JOI Summer Seminar 2017](https://www.ioi-jp.org/seminar/2017/summer-semi.html)
+    [JOI 2017 Summer Seminar](https://www.ioi-jp.org/seminar/2017/summer-semi.html)
+
+## Service
+
+- Jan 2025 – Mar 2025 \
+  Program committee member of [PPL 2025](https://jssst-ppl.org/workshop/2025/)
+
+## Internship
+
+- Nov 2022 – Feb 2023 \
+  Software engineer internship for Google ChromeOS, at
+    [Google Tokyo](https://careers.google.com/locations/tokyo/)
+- Sept 2020 – Dec 2020, Feb 2021 – July 2021 \
+  Research internship (Online) at the
+    [RustBelt Team](https://plv.mpi-sws.org/rustbelt/),
+    [MPI-SWS](https://www.mpi-sws.org/), supervised by
+    [Derek Dreyer](https://people.mpi-sws.org/~dreyer/)
+- Aug 2019 – Jan 2020 \
+  Frontend and backend web engineer at [CADDi](https://caddi.jp/) (building a
+    manufacturing platform), Tokyo, Japan \
+  [Interview Article](https://www.wantedly.com/companies/caddi/post_articles/200577)
+- Mar 2017 – Mar 2019 \
+  Software engineer at [Morishita Lab](https://mlab.cb.k.u-tokyo.ac.jp/en/)
+    (studying genome informatics), Dept. of Computational Biology and Medical
+    Sciences, Grad School of Frontier Sciences, UTokyo, Japan
+
+## Education
+
+- Apr 2021 – Mar 2024 \
+  Ph.D. of Computer Science \
+  [Kobayashi Lab](http://www.kb.is.s.u-tokyo.ac.jp/index.html.en), Dept. of
+    Computer Science,
+    [Grad School of IST, UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml)
+- Apr 2019 – Mar 2021 \
+  Master of Computer Science \
+  [Kobayashi Lab](http://www.kb.is.s.u-tokyo.ac.jp/index.html.en), Dept. of
+    Computer Science,
+    [Grad School of IST, UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml)
+- Apr 2017 – Mar 2019 \
+  Bachelor of Science \
+  Dept. of Information Science,
+    [School of Science, UTokyo](https://www.s.u-tokyo.ac.jp/en/)
+- Apr 2015 – Mar 2017 \
+  Natural Sciences I, College of Arts and Sciences Junior Div.,
+    [UTokyo](https://www.u-tokyo.ac.jp/en/index.html)
+- Apr 2009 – Mar 2015 \
+  [Nada Junior and Senior High School](http://www.nada.ac.jp/)
+
+## Experiences
 
 ### Competitive Programming
 
@@ -275,10 +310,10 @@ Email: ysk.m24t@gmail.com
   Gold Prize of [Japan J.S. Bach Music Concours](https://www.bach-concours.org/)
 - Dec 2019 \
   Finalist of [Japan J.S. Bach Music Concours](https://www.bach-concours.org/)
-- Dec 2015 - Dec 2016 \
+- Dec 2015 – Dec 2016 \
   Leader of [Piano Society, UTokyo](https://www.p-kai.net/)
 
-### Misc
+### Debate
 
 - Dec 2013 \
   Best 8 finalist of
