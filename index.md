@@ -6,11 +6,17 @@
 
 (Last updated: Feb 13, 2025)
 
-I am a researcher of software science. \
-I primarily study formal verification of stateful programs, especially those
-written in [Rust](https://www.rust-lang.org/). \
-From Apr 2024, I work as a postdoctoral researcher under JSPS's Fellowship PD at
-[Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en).
+I am a software scientist. I specialize in formal verification of stateful
+programs, especially those written in [Rust](https://www.rust-lang.org/)
+  (e.g., my work [RustHorn](#rusthorn) and [RustHornBelt](#rusthornbelt)).
+  I am also curious about many other topics, including algorithms and natural
+  language processing (e.g., [SoftMatcha](#softmatcha)).
+
+From April 2025, I will be a Program-Specific Assistant Professor at
+  [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng).
+  Until March 2025, I work as a JSPS Fellow (PD) at
+  [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
+  [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/).
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
   [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke),
@@ -24,9 +30,10 @@ Email: ysk.m24t@gmail.com
 
 ## Papers
 
-- Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
+- [Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
-  __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches. \
+  __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
+    Searches.]{#softmatcha} \
   [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24-28, 2025. \
   [Webpage](https://softmatcha.github.io/),
     [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo)
@@ -38,9 +45,9 @@ Email: ysk.m24t@gmail.com
   Paper: [Springer](https://doi.org/10.1007/978-3-031-50521-8_11) \
   Talk at [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024):
     [YouTube](https://www.youtube.com/watch?v=fBKjam3PN3U)
-- _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
+- [_Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   __RustHornBelt__: A Semantic Foundation for Functional Verification of Rust
-    Programs with Unsafe Code. \
+    Programs with Unsafe Code.]{#rusthornbelt} \
   [__ACM PLDI 2022__](https://pldi22.sigplan.org/). June 13-17, 2022. \
   __Distinguished Paper Award!__ \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704),
@@ -51,8 +58,8 @@ Email: ysk.m24t@gmail.com
   Talk at [PLDI 2022](https://pldi22.sigplan.org/):
     [Slides](./talks/pldi2022-rusthornbelt-talk.pdf),
     [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI)
-- _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
-  __RustHorn__: CHC-based Verification for Rust Programs. \
+- [_Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
+  __RustHorn__: CHC-based Verification for Rust Programs.]{#rusthorn} \
   [__ACM TOPLAS__](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021. \
   Extended version of the same-titled ESOP 2020 paper. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3462205),
@@ -199,26 +206,32 @@ Email: ysk.m24t@gmail.com
 
 - Apr 2025 – (Mar 2030) \
   The Hakubi Project, Kyoto University \
-  Rust から広がる新時代のソフトウェア開発の探究 (Exploring a New Age of Software
-    Development Spreading from Rust)
+  Exploring a New Age of Software Development Springing from Rust
+    (Rust から広がる新時代のソフトウェア開発の探究)
 - Apr 2024 – Mar 2027 \
   JSPS (学振) Research Fellowship for Young Scientists PD \
-  堅牢で高性能なシステムソフトウェアのための基礎と応用 (Foundations and Applications for
-    Robust and High-Performance System Software)
+  Foundations and Practice for Robust and High-Performance System Software
+    (堅牢で高性能なシステムソフトウェアのための基礎と実践)
 - Apr 2021 – Mar 2024 \
   JSPS (学振) Research Fellowship for Young Scientists DC1 \
-  堅牢で高性能なシステムプログラミング言語のための理論と応用 (Theory and Application for
-    Robust and High-Performance Systems Programming Languages)
+  Theory and Application for Robust and High-Performance Systems Programming
+    Languages (堅牢で高性能なシステムプログラミング言語のための理論と応用) \
+  [KAKEN Page](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ0561/)
 
 ## Work
 
 - Apr 2025 – (Mar 2030) \
-  Program-Specific Assistant Professor at
-    [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng)
-    ([Info](https://www.hakubi.kyoto-u.ac.jp/rec/2024/informal-appointment-hakubi-researchers-global-type))
+  Program-Specific __Assistant Professor__ at
+    [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng) \
+  For the project "Exploring a New Age of Software Development Springing from
+    Rust" \
+  Hosted by [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
+    [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/) \
+  [Info about the selection](https://www.hakubi.kyoto-u.ac.jp/eng/rec/2024/informal-appointment-hakubi-researchers-global-type)
 - Apr 2024 – Mar 2025 \
-  JSPS Fellow (PD) at
-    [Igarashi & Suenaga Lab](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en)
+  __JSPS Fellow (PD)__ at
+    [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
+    [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/)
 
 ## Teaching
 
