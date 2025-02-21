@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Feb 13, 2025)
+(Last updated: Feb 21, 2025)
 
 I am a software scientist. I specialize in formal verification of stateful
 programs, especially those written in [Rust](https://www.rust-lang.org/)
@@ -111,7 +111,7 @@ Email: ysk.m24t@gmail.com
 
 - _Yusuke Matsushita_. The Fun of Rust. \
   Lecture for the Course of CCE, Grad School of Informatics, Kyoto University.
-    Dec 20, 2025. \
+    Dec 20, 2024. \
   [Slides](./talks/2024-course-talk.pdf)
     ([Keynote](./talks/2024-course-talk.key)),
     [Info](./talks/2024-course-talk.txt)
@@ -189,8 +189,8 @@ Email: ysk.m24t@gmail.com
 
 - _Yusuke Matsushita_. Non-Step-Indexed Separation Logic with Invariants and
     Rust-Style Borrows. \
-  研究会推薦博士論文速報 (Group-Recommended Ph.D. Theses Express) by Information
-    Processing Society of Japan. Aug 15, 2024. \
+  2023 年度研究会推薦博士論文速報 (Academic Year 2023 Group-Recommended Ph.D.
+    Theses Express) by Information Processing Society of Japan. Aug 15, 2024. \
   [HTML](https://note.com/ipsj/n/nc0ae275045eb) (Japanese)
 - _Yusuke Matsushita_. ソフトウェアの世界を切り拓く (Breaking Ground in the World of
     Software). \
@@ -240,6 +240,12 @@ Email: ysk.m24t@gmail.com
     of [S15 Rust プログラム検証ゼミ (Rust Program Verification Seminar)](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/kaihatsu.html#s15)
     at [Security Camp 2024](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/index.html)
     by [IPA](https://www.ipa.go.jp/en/)
+  + Blog articles "Rust で預言を使ったプログラム検証器を自作しよう
+      (Let's develop a prophecy-based program verifier in Rust by yourself)"
+      by isan, a student of the lecture:
+      [#1](https://zenn.dev/isan_ethen/articles/bb0316c17897ea),
+      [#2](https://zenn.dev/isan_ethen/articles/ec7177040a8515),
+      [#3](https://zenn.dev/isan_ethen/articles/3409d4796c9a23)
 - Apr 2022 – Aug 2022, Apr 2019 – Aug 2019 \
   Teaching assistant of "Functional and Logic Programming Experiments" at Dept.
     of Information Science, School of Science, UTokyo
@@ -304,16 +310,17 @@ Email: ysk.m24t@gmail.com
 ### Competitive Programming
 
 - [AtCoder](https://atcoder.jp/users/shiatsumat)
-- Contestant of
+- Contestant of the
     [ACM International Collegiate Programming Contest (ICPC)](https://icpc.baylor.edu/)
     Asia Regionals of
     [2019 (Yokohama)](https://icpc.iisf.or.jp/2019-yokohama/asia-yokohama-regional-contest-2019/),
     [2018 (Yokohama)](https://icpc.iisf.or.jp/2018-yokohama/asiaregional/) and
     [2016 (Tsukuba)](https://icpc.iisf.or.jp/2016-tsukuba/regional/?lang=en)
-- Finalist of [Japanese Olympiad in Informatics (JOI)](https://www.ioi-jp.org/)
-  [2013](https://www.ioi-jp.org/joi/2013/index.html) and
-  [2012](https://www.ioi-jp.org/joi/2012/index.html)
-- Tutor of Japan's special team of
+- Finalist of the
+    [Japanese Olympiad in Informatics (JOI)](https://www.ioi-jp.org/)
+    [2013](https://www.ioi-jp.org/joi/2013/index.html) and
+    [2012](https://www.ioi-jp.org/joi/2012/index.html)
+- Tutor of Japan's special team of the
     [International Olympiad in Informatics (IOI) 2018](https://ioi2018.jp/)
 
 ### Piano and Music
