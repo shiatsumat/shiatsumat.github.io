@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Feb 21, 2025)
+(Last updated: Feb 28, 2025)
 
 I am a software scientist. I specialize in formal verification of stateful
 programs, especially those written in [Rust](https://www.rust-lang.org/)
@@ -210,13 +210,14 @@ Email: ysk.m24t@gmail.com
     (Rust から広がる新時代のソフトウェア開発の探究)
 - Apr 2024 – Mar 2027 \
   JSPS (学振) Research Fellowship for Young Scientists PD \
-  Foundations and Practice for Robust and High-Performance System Software
-    (堅牢で高性能なシステムソフトウェアのための基礎と実践)
+  Foundations and Applications for Robust and High-Performance System Software
+    (堅牢で高性能なシステムソフトウェアのための基礎と応用) \
+  [KAKEN Page](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24KJ0133/)
 - Apr 2021 – Mar 2024 \
   JSPS (学振) Research Fellowship for Young Scientists DC1 \
   Theory and Application for Robust and High-Performance Systems Programming
     Languages (堅牢で高性能なシステムプログラミング言語のための理論と応用) \
-  [KAKEN Page](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22KJ0561/)
+  [KAKEN Page](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22KJ0561/)
 
 ## Work
 
