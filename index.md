@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Feb 28, 2025)
+(Last updated: Mar 4, 2025)
 
 I am a software scientist. I specialize in formal verification of stateful
 programs, especially those written in [Rust](https://www.rust-lang.org/)
@@ -26,7 +26,7 @@ From April 2025, I will be a Program-Specific Assistant Professor at
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Feb 13, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Feb 28, 2025)
 
 ## Papers
 
@@ -178,12 +178,14 @@ Email: ysk.m24t@gmail.com
   Linear Haskell での Rust 流借用の純粋な実現 (Pure Realization of Rust-Style
     Borrows in Linear Haskell). \
   [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 3-5, 2025.
+    [PDF](./posters/ppl2025-pure-borrow-poster.pdf)
+    ([Keynote](./posters/ppl2025-pure-borrow-poster.key))
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   所有権型を利用した CHC ベースのプログラム検証 (CHC-based Program Verification
     Exploiting Ownership Types). \
   [PPL 2019](https://jssst-ppl.org/workshop/2019/). Mar 6, 2019.
     [PDF](./posters/ppl2019-senior-thesis-poster.pdf)
-    ([Keynote](./posters/ppl2019-senior-thesis-poster.pdf))
+    ([Keynote](./posters/ppl2019-senior-thesis-poster.key))
 
 ## Articles
 
