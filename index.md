@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Mar 4, 2025)
+(Last updated: Mar 6, 2025)
 
 I am a software scientist. I specialize in formal verification of stateful
 programs, especially those written in [Rust](https://www.rust-lang.org/)
@@ -244,8 +244,8 @@ Email: ysk.m24t@gmail.com
     at [Security Camp 2024](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/index.html)
     by [IPA](https://www.ipa.go.jp/en/)
   + Blog articles "Rust で預言を使ったプログラム検証器を自作しよう
-      (Let's develop a prophecy-based program verifier in Rust by yourself)"
-      by isan, a student of the lecture:
+      (Let's develop a prophecy-based program verifier in Rust by yourself)" by
+      isan, a student of the seminar:
       [#1](https://zenn.dev/isan_ethen/articles/bb0316c17897ea),
       [#2](https://zenn.dev/isan_ethen/articles/ec7177040a8515),
       [#3](https://zenn.dev/isan_ethen/articles/3409d4796c9a23)
