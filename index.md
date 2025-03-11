@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Mar 6, 2025)
+(Last updated: Mar 11, 2025)
 
 I am a software scientist. I specialize in formal verification of stateful
 programs, especially those written in [Rust](https://www.rust-lang.org/)
@@ -83,7 +83,7 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_. \
   Non-Step-Indexed Separation Logic with Invariants and Rust-Style Borrows
     (不変条件と Rust 流の借用を扱える非 Step-Indexed な分離論理). \
-  Ph.D. thesis. University of Tokyo. Supervised by Prof. Naoki Kobayashi.
+  Ph.D. dissertation. University of Tokyo. Supervised by Prof. Naoki Kobayashi.
     Dec 6, 2023. \
   Paper: [Author's](./papers/phd-thesis.pdf) \
   Talk: [Slides](./talks/phd-thesis-talk.pdf)
@@ -191,8 +191,9 @@ Email: ysk.m24t@gmail.com
 
 - _Yusuke Matsushita_. Non-Step-Indexed Separation Logic with Invariants and
     Rust-Style Borrows. \
-  2023 年度研究会推薦博士論文速報 (Academic Year 2023 Group-Recommended Ph.D.
-    Theses Express) by Information Processing Society of Japan. Aug 15, 2024. \
+  2023 年度研究会推薦博士論文速報 (Bulletin of Ph.D. Dissertations in AY 2023
+    Recommended by SIGs), Information Processing Society of Japan. Aug
+    15, 2024. \
   [HTML](https://note.com/ipsj/n/nc0ae275045eb) (Japanese)
 - _Yusuke Matsushita_. ソフトウェアの世界を切り拓く (Breaking Ground in the World of
     Software). \
