@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Mar 11, 2025)
+(Last updated: Mar 13, 2025)
 
 I am a software scientist. I specialize in formal verification of stateful
 programs, especially those written in [Rust](https://www.rust-lang.org/)
@@ -49,7 +49,7 @@ Email: ysk.m24t@gmail.com
   __RustHornBelt__: A Semantic Foundation for Functional Verification of Rust
     Programs with Unsafe Code.]{#rusthornbelt} \
   [__ACM PLDI 2022__](https://pldi22.sigplan.org/). June 13-17, 2022. \
-  __Distinguished Paper Award!__ \
+  __Distinguished Paper Award__ \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704),
     [Authors'](./papers/pldi2022-rusthornbelt.pdf) \
   Artifacts: [Zenodo](https://zenodo.org/record/6501665#.YoycDmBByJE);
@@ -148,8 +148,7 @@ Email: ysk.m24t@gmail.com
   Rust から広がるプログラム検証・テストの新展望 (New Perspectives on Program
     Verification and Testing Spreading from Rust). \
   __Invited talk__ at [PRO-2024-1](https://sigpro.ipsj.or.jp/pro2024-1/). Jun
-    14, 2024. \
-  [Slides](./talks/pro-2024-1-invited-talk.pdf)
+    14, 2024. [Slides](./talks/pro-2024-1-invited-talk.pdf)
     ([Keynote](./talks/pro-2024-1-invited-talk.key))
 - _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   [RustHornBelt: A Semantic Foundation for Functional Verification of Rust
@@ -160,7 +159,7 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   [RustHorn: CHC-based Verification for Rust Programs](#rusthorn). ESOP 2020. \
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme). Mar 31,
-    2021 (delayed by one year due to the pandemic). \
+    2021 (delayed due to the pandemic).
     [Slides](./talks/etaps2021-esop2020-rust-horn-talk.pdf)
     ([Keynote](./talks/etaps2021-esop2020-rust-horn-talk.key)),
     [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55) \
@@ -179,7 +178,8 @@ Email: ysk.m24t@gmail.com
     Borrows in Linear Haskell). \
   [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 3-5, 2025.
     [PDF](./posters/ppl2025-pure-borrow-poster.pdf)
-    ([Keynote](./posters/ppl2025-pure-borrow-poster.key))
+    ([Keynote](./posters/ppl2025-pure-borrow-poster.key)) \
+  __Best Poster Award__
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   所有権型を利用した CHC ベースのプログラム検証 (CHC-based Program Verification
     Exploiting Ownership Types). \
