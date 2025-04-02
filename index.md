@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Mar 15, 2025)
+(Last updated: Apr 3, 2025)
 
 I am a software scientist. I specialize in formal verification of stateful
 programs, especially those written in [Rust](https://www.rust-lang.org/)
@@ -12,11 +12,9 @@ programs, especially those written in [Rust](https://www.rust-lang.org/)
   I am also curious about many other topics, including algorithms and natural
   language processing (e.g., [SoftMatcha](#softmatcha)).
 
-From April 2025, I will be a Program-Specific Assistant Professor at
-  [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng).
-  Until March 2025, I work as a JSPS Fellow (PD) at
-  [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
-  [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/).
+I am currently a Program-Specific Assistant Professor at
+  [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng),
+  Japan.
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
   [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke),
