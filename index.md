@@ -154,8 +154,8 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_. \
   Rust から広がるプログラム検証・テストの新展望 (New Perspectives on Program
     Verification and Testing Spreading from Rust). \
-  __Invited talk__ at [PRO-2024-1](https://sigpro.ipsj.or.jp/pro2024-1/). Jun
-    14, 2024. [Slides](./talks/pro-2024-1-invited-talk.pdf)
+  __Invited talk__ at [PRO-2024-1](https://sigpro.ipsj.or.jp/pro2024-1/). June
+    13, 2024. [Slides](./talks/pro-2024-1-invited-talk.pdf)
     ([Keynote](./talks/pro-2024-1-invited-talk.key))
 - _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   [RustHornBelt: A Semantic Foundation for Functional Verification of Rust
