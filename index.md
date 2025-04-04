@@ -18,7 +18,8 @@ I specialize in formal verification of stateful programs, especially those
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
   [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke),
-  [ORCID](https://orcid.org/0000-0002-5208-3106) \
+  [ORCID](https://orcid.org/0000-0002-5208-3106),
+  [researchmap](https://researchmap.jp/y.matsushita) \
 [GitHub](https://github.com/shiatsumat),
   [Twitter](https://twitter.com/shiatsumat),
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
