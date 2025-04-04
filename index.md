@@ -4,13 +4,15 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 4, 2025)
+(Last updated: Apr 5, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
-  [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng). \
+  [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
+  and [the Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/),
+  [Kyoto University](https://www.kyoto-u.ac.jp/en). \
 I specialize in formal verification of stateful programs, especially those
   written in [Rust](https://www.rust-lang.org/) (e.g., my work
-  [RustHorn](#rusthorn), [RustHornBelt](#rusthornbelt) and [Nola](#nola)). I am
+  [RustHorn](#rusthorn), [RustHornBelt](#rusthornbelt), and [Nola](#nola)). I am
   also curious about many other topics, including algorithms and natural
   language processing (e.g., [SoftMatcha](#softmatcha)).
 
@@ -22,7 +24,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 4, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 5, 2025)
 
 ## Papers
 
