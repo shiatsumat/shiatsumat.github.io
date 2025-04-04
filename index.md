@@ -4,17 +4,15 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 3, 2025)
+(Last updated: Apr 4, 2025)
 
-I am a software scientist. I specialize in formal verification of stateful
-programs, especially those written in [Rust](https://www.rust-lang.org/)
-  (e.g., my work [RustHorn](#rusthorn) and [RustHornBelt](#rusthornbelt)).
-  I am also curious about many other topics, including algorithms and natural
+I am a software scientist working as a Program-Specific Assistant Professor at
+  [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng). \
+I specialize in formal verification of stateful programs, especially those
+  written in [Rust](https://www.rust-lang.org/) (e.g., my work
+  [RustHorn](#rusthorn), [RustHornBelt](#rusthornbelt) and [Nola](#nola)). I am
+  also curious about many other topics, including algorithms and natural
   language processing (e.g., [SoftMatcha](#softmatcha)).
-
-I am currently a Program-Specific Assistant Professor at
-  [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng),
-  Japan.
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
   [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke),
@@ -24,10 +22,16 @@ I am currently a Program-Specific Assistant Professor at
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Mar 15, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 4, 2025)
 
 ## Papers
 
+- [_Yusuke Matsushita_ and Takeshi Tsukada. \
+  __Nola__: Later-Free Ghost State for Verifying Termination in Iris.]{#nola} \
+  [__PLDI 2025__](https://pldi25.sigplan.org/). June 16-20, 2025. \
+  Paper: [Authors'](./papers/pldi2025-nola.pdf) \
+  Rocq artifact: [GitHub](https://github.com/hopv/nola),
+    [Zenodo](https://doi.org/10.5281/zenodo.15050271)
 - [Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
   __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
@@ -51,7 +55,7 @@ Email: ysk.m24t@gmail.com
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704),
     [Authors'](./papers/pldi2022-rusthornbelt.pdf) \
   Artifacts: [Zenodo](https://zenodo.org/record/6501665#.YoycDmBByJE);
-    [Coq mechanization](https://gitlab.mpi-sws.org/iris/lambda-rust/-/tree/masters/rusthornbelt),
+    [Rocq mechanization](https://gitlab.mpi-sws.org/iris/lambda-rust/-/tree/masters/rusthornbelt),
     [Benchmarks](https://github.com/xldenis/rhb-specs) \
   Talk at [PLDI 2022](https://pldi22.sigplan.org/):
     [Slides](./talks/pldi2022-rusthornbelt-talk.pdf),
@@ -83,6 +87,7 @@ Email: ysk.m24t@gmail.com
     (不変条件と Rust 流の借用を扱える非 Step-Indexed な分離論理). \
   Ph.D. dissertation. University of Tokyo. Supervised by Prof. Naoki Kobayashi.
     Dec 6, 2023. \
+  Predecessor of [the Nola paper](#nola). \
   Paper: [Author's](./papers/phd-thesis.pdf) \
   Talk: [Slides](./talks/phd-thesis-talk.pdf)
     ([Keynote](./talks/phd-thesis-talk.key))
