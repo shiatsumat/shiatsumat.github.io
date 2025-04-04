@@ -187,7 +187,7 @@ Email: ysk.m24t@gmail.com
     [PDF](./posters/ppl2025-pure-borrow-poster.pdf)
     ([Keynote](./posters/ppl2025-pure-borrow-poster.key)) \
   __Best Poster Award__
-- _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
+- _Yusuke Matsushita_, Naoki Kobayashi and Takeshi Tsukada. \
   所有権型を利用した CHC ベースのプログラム検証 (CHC-based Program Verification
     Exploiting Ownership Types). \
   [PPL 2019](https://jssst-ppl.org/workshop/2019/). Mar 6, 2019.
