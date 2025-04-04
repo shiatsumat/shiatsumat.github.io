@@ -121,7 +121,8 @@ Email: ysk.m24t@gmail.com
   [Slides](./talks/2024-course-talk.pdf)
     ([Keynote](./talks/2024-course-talk.key)),
     [Info](./talks/2024-course-talk.txt)
-- _Yusuke Matsushita_. 分離論理 Iris の世界 (The World of Separation Logic Iris). \
+- _Yusuke Matsushita_. 分離論理 Iris の世界 (The World of the Separation Logic
+    Iris). \
   __Invited lecture__ at
     [PPL Summer School 2024](http://ppl.jssst.or.jp/index.php?ss2024). Sept
     9, 2024. \
