@@ -183,7 +183,7 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_, Yudai Tanabe, Taro Sekiyama and Atsushi Igarashi. \
   Linear Haskell での Rust 流借用の純粋な実現 (Pure Realization of Rust-Style
     Borrows in Linear Haskell). \
-  [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 3-5, 2025.
+  [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 5, 2025.
     [PDF](./posters/ppl2025-pure-borrow-poster.pdf)
     ([Keynote](./posters/ppl2025-pure-borrow-poster.key)) \
   __Best Poster Award__
