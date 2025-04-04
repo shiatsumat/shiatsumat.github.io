@@ -238,7 +238,7 @@ Email: ysk.m24t@gmail.com
     Rust" \
   Hosted by [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
     [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/) \
-  [Info about the selection](https://www.hakubi.kyoto-u.ac.jp/eng/rec/2024/informal-appointment-hakubi-researchers-global-type)
+  [Info about the selection](https://www.hakubi.kyoto-u.ac.jp/en/rec_period/rec_15th/)
 - Apr 2024 – Mar 2025 \
   __JSPS Fellow (PD)__ at
     [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
