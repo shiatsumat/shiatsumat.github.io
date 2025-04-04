@@ -236,6 +236,7 @@ Email: ysk.m24t@gmail.com
     [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng) \
   For the project "Exploring a New Age of Software Development Springing from
     Rust" \
+  Awarded the title of __Hakubi Researcher__ on Apr 1, 2025 \
   Hosted by [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
     [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/) \
   [Info about the selection](https://www.hakubi.kyoto-u.ac.jp/en/rec_period/rec_15th/)
