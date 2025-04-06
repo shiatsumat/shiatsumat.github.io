@@ -181,6 +181,23 @@ Email: ysk.m24t@gmail.com
     [Slides](./talks/ppl2020-esop2020-rust-horn-talk.pdf)
     ([Keynote](./talks/ppl2020-esop2020-rust-horn-talk.key)).
 
+### Co-Authored
+
+- Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
+    Suenaga, Masaki Waga and Sho Yokoi. \
+  SoftMatcha: 大規模コーパス検索のための柔らかくも高速なパターンマッチャー (SoftMatcha: A
+    Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches). \
+  [NLP 2025](https://www.anlp.jp/nlp2025/). Mar 13, 2025. \
+  [Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-20.pdf).
+- Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Kohei Suenaga, Masaki Waga
+    and Sho Yokoi. \
+  柔らかいgrep/KWICに向けて：高速単語列マッチングの埋め込み表現による連続化 (Towards Soft
+    Grep/KWIC: Making Fast Word Sequence Matching Continuous Using Embedded
+    Representations). \
+  [YANS 2024](https://yans.anlp.jp/entry/yans2024). Sept 5, 2024. \
+  Predecessor of [SoftMatcha](#softmatcha). \
+  __Best Demo Award__ and __Award by Recruit Holdings__.
+
 ## Posters
 
 - _Yusuke Matsushita_, Yudai Tanabe, Taro Sekiyama and Atsushi Igarashi. \
@@ -196,6 +213,27 @@ Email: ysk.m24t@gmail.com
   [PPL 2019](https://jssst-ppl.org/workshop/2019/). Mar 6, 2019.
     [PDF](./posters/ppl2019-senior-thesis-poster.pdf)
     ([Keynote](./posters/ppl2019-senior-thesis-poster.key)).
+
+### Co-Authored
+
+- Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori and Naoki Kobayashi. \
+  メモリ安全性のためのC++オブジェクトモデルのハイレベルな形式化 (High-Level Formalization
+    of the C++ Object Model for Memory Safety). \
+  [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 5, 2025. \
+  __Best Student Poster Award__.
+- Sota Sato, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
+  関数型言語のためのHyper Hoare Typeにむけて (Towards Hyper Hoare Types for
+    Functional Languages).
+  [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 5, 2025.
+- Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
+  多重配列を扱う命令型プログラムの所有権と篩型の組み合わせによる形式検証 (Formally Verifying
+    Imperative Programs with Nested Arrays by Combining Ownership and Refinement
+    Types). \
+  [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 7, 2025.
+- Takashi Nakayama, Naoki Kobayashi, Ryosuke Sato and _Yusuke Matsushita_. \
+  命令型プログラムの検証のためのライフタイム付き分数所有権型システム (Fractional Ownership
+    Type System with Lifetimes for Verifying Imperative Programs) \
+  [PPL 2023](https://jssst-ppl.org/workshop/2023/index.html). Mar 7, 2023.
 
 ## Articles
 
