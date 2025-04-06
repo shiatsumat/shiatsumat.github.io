@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 5, 2025)
+(Last updated: Apr 6, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -146,8 +146,8 @@ Email: ysk.m24t@gmail.com
     [Extended abstract](./papers/tpsa2025-cqsl.pdf),
     [Slides](./talks/tpsa2025-cqsl-talk.pdf)
     ([Powerpoint](./talks/tpsa2025-cqsl-talk.pptx)) \
-  Talk at [PLanQC 2025](https://popl25.sigplan.org/home/tpsa-2025) (Presented by
-    Ryo Wakizaka). Jan 25, 2025.
+  Talk at [PLanQC 2025](https://popl25.sigplan.org/home/planqc-2025) (Presented
+    by Ryo Wakizaka). Jan 25, 2025.
     [Extended abstract](./papers/planqc2025-cqsl.pdf),
     [Slides](./talks/planqc2025-cqsl-talk.pdf)
     ([Powerpoint](./talks/planqc2025-cqsl-talk.pptx))
