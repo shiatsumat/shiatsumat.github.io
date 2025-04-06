@@ -41,13 +41,16 @@ Email: ysk.m24t@gmail.com
     Searches.]{#softmatcha} \
   [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24-28, 2025. \
   [Webpage](https://softmatcha.github.io/),
-    [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo).
+    [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo). \
+  Paper: [OpenReview](https://openreview.net/pdf?id=Q6PAnqYVpo),
+    [arXiv](https://arxiv.org/abs/2503.03703).
 - Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori, Ryosuke Sato and Naoki
     Kobayashi. \
   Borrowable Fractional Ownership Types for Verification. \
   [__VMCAI 2024__](https://popl24.sigplan.org/home/VMCAI-2024). Jan
     15-16, 2024. \
-  Paper: [Springer](https://doi.org/10.1007/978-3-031-50521-8_11). \
+  Paper: [Springer](https://doi.org/10.1007/978-3-031-50521-8_11),
+    [arXiv](https://arxiv.org/abs/2310.20430). \
   Talk at [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024):
     [YouTube](https://www.youtube.com/watch?v=fBKjam3PN3U).
 - [_Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
