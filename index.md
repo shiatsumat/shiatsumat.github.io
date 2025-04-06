@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 6, 2025)
+(Last updated: Apr 7, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -80,7 +80,7 @@ Email: ysk.m24t@gmail.com
     [Slides](./talks/etaps2021-esop2020-rust-horn-talk.pdf)
     ([Keynote](./talks/etaps2021-esop2020-rust-horn-talk.key)),
     [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55) \
-  Artifacts: [Zenodo](https://zenodo.org/record/4710723#.Yoycm2BByJE);
+  Artifacts: [Zenodo](https://zenodo.org/record/4710723),
     [GitHub Repo](https://github.com/hopv/rust-horn)
 
 ## Theses
