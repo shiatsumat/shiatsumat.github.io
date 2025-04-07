@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 7, 2025)
+(Last updated: Apr 8, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -25,7 +25,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 5, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 8, 2025)
 
 ## Papers
 
@@ -93,7 +93,7 @@ Email: ysk.m24t@gmail.com
     (不変条件と Rust 流の借用を扱える非 Step-Indexed な分離論理). \
   Ph.D. dissertation. University of Tokyo. Supervised by Prof. Naoki Kobayashi.
     Dec 6, 2023. \
-  Predecessor of [the Nola paper](#nola). \
+  Precursor to [the Nola paper](#nola). \
   Paper: [Author's](./papers/phd-thesis.pdf). \
   Talk: [Slides](./talks/phd-thesis-talk.pdf)
     ([Keynote](./talks/phd-thesis-talk.key)).
@@ -102,7 +102,7 @@ Email: ysk.m24t@gmail.com
     Technique of Prophecy (預言の技術による Rust プログラムの拡張可能な機能正当性検証). \
   Master's thesis. University of Tokyo. Supervised by Prof. Naoki Kobayashi. Feb
     24, 2021. \
-  Predecessor of [the RustHornBelt paper](#rusthornbelt). \
+  Precursor to [the RustHornBelt paper](#rusthornbelt). \
   Paper: [Author's](./papers/masters-thesis.pdf). \
   Talk: [Slides](./talks/masters-thesis-talk.pdf)
     ([Keynote](./talks/masters-thesis-talk.key)).
@@ -111,7 +111,7 @@ Email: ysk.m24t@gmail.com
     (所有権型を利用した CHC ベースのプログラム検証). \
   Senior thesis. University of Tokyo. Supervised by Prof. Naoki Kobayashi. Feb
     28, 2019. \
-  Predecessor of [the RustHorn paper](#rusthorn). \
+  Precursor to [the RustHorn paper](#rusthorn). \
   Paper: [Author's](./papers/senior-thesis.pdf). \
   Talk: [Slides](./talks/senior-thesis-talk.pdf)
     ([Keynote](./talks/senior-thesis-talk.key)).
@@ -195,7 +195,7 @@ Email: ysk.m24t@gmail.com
     Grep/KWIC: Making Fast Word Sequence Matching Continuous Using Embedded
     Representations). \
   [YANS 2024](https://yans.anlp.jp/entry/yans2024). Sept 5, 2024. \
-  Predecessor of [SoftMatcha](#softmatcha). \
+  Precursor to [SoftMatcha](#softmatcha). \
   __Best Demo Award__ and __Award by Recruit Holdings__.
 
 ## Posters
