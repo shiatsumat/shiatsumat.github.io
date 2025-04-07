@@ -216,6 +216,14 @@ Email: ysk.m24t@gmail.com
 
 ### Co-Authored
 
+- Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
+    Suenaga, Masaki Waga and Sho Yokoi. \
+  SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
+    Searches. \
+  [ICLR 2025](https://iclr.cc/Conferences/2025). Apr 24, 2025. \
+  [ICLR page](https://iclr.cc/virtual/2025/poster/29709),
+    [Webpage](https://softmatcha.github.io/),
+    [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo).
 - Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori and Naoki Kobayashi. \
   メモリ安全性のためのC++オブジェクトモデルのハイレベルな形式化 (High-Level Formalization
     of the C++ Object Model for Memory Safety). \
@@ -230,6 +238,10 @@ Email: ysk.m24t@gmail.com
     Imperative Programs with Nested Arrays by Combining Ownership and Refinement
     Types). \
   [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 7, 2025.
+- Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
+  Towards Ownership Refinement Type Inference with Nested Arrays. \
+  [APLAS 2024 Student Research Competition and Posters](https://conf.researchr.org/track/aplas-2024/src-and-posters%3F)
+    (Non-SRC). Oct 22, 2024.
 - Takashi Nakayama, Naoki Kobayashi, Ryosuke Sato and _Yusuke Matsushita_. \
   命令型プログラムの検証のためのライフタイム付き分数所有権型システム (Fractional Ownership
     Type System with Lifetimes for Verifying Imperative Programs) \
