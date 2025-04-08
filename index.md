@@ -189,14 +189,6 @@ Email: ysk.m24t@gmail.com
     Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches). \
   [NLP 2025](https://www.anlp.jp/nlp2025/). Mar 13, 2025. \
   [Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-20.pdf).
-- Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Kohei Suenaga, Masaki Waga
-    and Sho Yokoi. \
-  柔らかいgrep/KWICに向けて：高速単語列マッチングの埋め込み表現による連続化 (Towards Soft
-    Grep/KWIC: Making Fast Word Sequence Matching Continuous Using Embedded
-    Representations). \
-  [YANS 2024](https://yans.anlp.jp/entry/yans2024). Sept 5, 2024. \
-  Precursor to [SoftMatcha](#softmatcha). \
-  __Best Demo Award__ and __Award by Recruit Holdings__.
 
 ## Posters
 
@@ -242,6 +234,14 @@ Email: ysk.m24t@gmail.com
   Towards Ownership Refinement Type Inference with Nested Arrays. \
   [APLAS 2024 Student Research Competition and Posters](https://conf.researchr.org/track/aplas-2024/src-and-posters%3F)
     (Non-SRC). Oct 22, 2024.
+- Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Kai Keida, Masaki Waga and
+    Sho Yokoi. \
+  柔らかいgrep/KWICに向けて：高速単語列マッチングの埋め込み表現による連続化 (Towards Soft
+    Grep/KWIC: Making Fast Word Sequence Matching Continuous Using Embedded
+    Representations). \
+  [YANS 2024](https://yans.anlp.jp/entry/yans2024). Sept 5, 2024. \
+  Precursor to [SoftMatcha](#softmatcha). \
+  __Best Demo Award__ and __Award by Recruit Holdings__.
 - Takashi Nakayama, Naoki Kobayashi, Ryosuke Sato and _Yusuke Matsushita_. \
   命令型プログラムの検証のためのライフタイム付き分数所有権型システム (Fractional Ownership
     Type System with Lifetimes for Verifying Imperative Programs) \
