@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 8, 2025)
+(Last updated: Apr 10, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -351,12 +351,12 @@ Email: ysk.m24t@gmail.com
 ## Education
 
 - Apr 2021 – Mar 2024 \
-  Ph.D. of Computer Science. \
+  Doctor of Philosophy in the field of Information Science and Technology. \
   [Kobayashi Lab](http://www.kb.is.s.u-tokyo.ac.jp/index.html.en), Dept. of
     Computer Science,
     [Grad School of IST, UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml).
 - Apr 2019 – Mar 2021 \
-  Master of Computer Science. \
+  Master of Information Science and Technology. \
   [Kobayashi Lab](http://www.kb.is.s.u-tokyo.ac.jp/index.html.en), Dept. of
     Computer Science,
     [Grad School of IST, UTokyo](https://www.i.u-tokyo.ac.jp/index_e.shtml).
