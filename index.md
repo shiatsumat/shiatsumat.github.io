@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 10, 2025)
+(Last updated: Apr 11, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -19,13 +19,13 @@ I specialize in formal verification of stateful programs, especially those
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
   [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke),
   [ORCID](https://orcid.org/0000-0002-5208-3106),
-  [researchmap](https://researchmap.jp/y.matsushita) \
+  [researchmap](https://researchmap.jp/y.matsushita?lang=en) \
 [GitHub](https://github.com/shiatsumat),
   [Twitter](https://twitter.com/shiatsumat),
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 8, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 10, 2025)
 
 ## Papers
 
