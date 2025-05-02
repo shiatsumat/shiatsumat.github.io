@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 11, 2025)
+(Last updated: May 2, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -25,7 +25,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 10, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: May 2, 2025)
 
 ## Papers
 
@@ -56,7 +56,7 @@ Email: ysk.m24t@gmail.com
 - [_Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   __RustHornBelt__: A Semantic Foundation for Functional Verification of Rust
     Programs with Unsafe Code.]{#rusthornbelt} \
-  [__ACM PLDI 2022__](https://pldi22.sigplan.org/). June 13-17, 2022. \
+  [__PLDI 2022__](https://pldi22.sigplan.org/). June 13-17, 2022. \
   __Distinguished Paper Award__. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704),
     [Authors'](./papers/pldi2022-rusthornbelt.pdf). \
@@ -68,7 +68,7 @@ Email: ysk.m24t@gmail.com
     [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI).
 - [_Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   __RustHorn__: CHC-based Verification for Rust Programs.]{#rusthorn} \
-  [__ACM TOPLAS__](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021. \
+  [__TOPLAS__](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021. \
   Extended version of the same-titled ESOP 2020 paper. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3462205),
     [Authors'](./papers/toplas2021-rust-horn.pdf).
@@ -334,8 +334,8 @@ Email: ysk.m24t@gmail.com
 - Nov 2022 – Feb 2023 \
   Software engineer internship for Google ChromeOS, at
     [Google Tokyo](https://careers.google.com/locations/tokyo/).
-- Sept 2020 – Dec 2020, Feb 2021 – July 2021 \
-  Research internship (Online) at the
+- Sept 2020 – June 2021 \
+  Visiting Scholar (Online) at the
     [RustBelt Team](https://plv.mpi-sws.org/rustbelt/),
     [MPI-SWS](https://www.mpi-sws.org/), supervised by
     [Derek Dreyer](https://people.mpi-sws.org/~dreyer/).
