@@ -35,6 +35,8 @@ Email: ysk.m24t@gmail.com
   Paper: [Authors'](./papers/pldi2025-nola.pdf). \
   Rocq artifact: [GitHub](https://github.com/hopv/nola),
     [Zenodo](https://doi.org/10.5281/zenodo.15050271).
+  Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/):
+    [Slides](./talks/iris2025-nola-talk.pdf).
 - [Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
   __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
@@ -143,6 +145,13 @@ Email: ysk.m24t@gmail.com
 
 ## Talks
 
+- _Yusuke Matsushita_ and Takeshi Tsukada. \
+  [Nola: Later-Free Ghost State for Verifying Termination in Iris.](#nola).
+    PLDI 2025. \
+  Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/). June
+    2, 2025.
+    [Slides](./talks/iris2025-nola-talk.pdf)
+    ([Keynote](./talks/iris2025-nola-talk.key)).
 - _Yusuke Matsushita_, Kengo Hirata and Ryo Wakizaka. \
   Concurrent Quantum Separation Logic for Fine-Grained Parallelism. \
   Talk at [TPSA 2025](https://popl25.sigplan.org/home/tpsa-2025). Jan 21, 2025.
