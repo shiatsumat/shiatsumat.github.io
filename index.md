@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: May 2, 2025)
+(Last updated: June 6, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -165,7 +165,7 @@ Email: ysk.m24t@gmail.com
     Programs with Unsafe Code](#rusthornbelt). PLDI 2022. \
   Talk at [PLDI 2022](https://pldi22.sigplan.org/). June 17, 2022.
     [Slides](./talks/pldi2022-rusthornbelt-talk.pdf),
-    [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI),
+    [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI).
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   [RustHorn: CHC-based Verification for Rust Programs](#rusthorn). ESOP 2020. \
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme). Mar 31,
