@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: June 6, 2025)
+(Last updated: June 21, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -32,9 +32,12 @@ Email: ysk.m24t@gmail.com
 - [_Yusuke Matsushita_ and Takeshi Tsukada. \
   __Nola__: Later-Free Ghost State for Verifying Termination in Iris.]{#nola} \
   [__PLDI 2025__](https://pldi25.sigplan.org/). June 16-20, 2025. \
-  Paper: [Authors'](./papers/pldi2025-nola.pdf). \
+  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3729250),
+    [Authors'](./papers/pldi2025-nola.pdf). \
   Rocq artifact: [GitHub](https://github.com/hopv/nola),
-    [Zenodo](https://doi.org/10.5281/zenodo.15050271).
+    [Zenodo](https://doi.org/10.5281/zenodo.15050271). \
+  Talk at [PLDI 2025](https://pldi25.sigplan.org/):
+    [Slides](./talks/pldi2025-nola-talk.pdf). \
   Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/):
     [Slides](./talks/iris2025-nola-talk.pdf).
 - [Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
@@ -148,6 +151,9 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_ and Takeshi Tsukada. \
   [Nola: Later-Free Ghost State for Verifying Termination in Iris.](#nola).
     PLDI 2025. \
+  Talk at [PLDI 2025](https://pldi25.sigplan.org/). June 21, 2025.
+    [Slides](./talks/pldi2025-nola-talk.pdf)
+    ([Keynote](./talks/pldi2025-nola-talk.key)).
   Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/). June
     2, 2025.
     [Slides](./talks/iris2025-nola-talk.pdf)
