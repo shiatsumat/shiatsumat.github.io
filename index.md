@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: June 21, 2025)
+(Last updated: June 29, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -307,7 +307,8 @@ Email: ysk.m24t@gmail.com
   Awarded the title of __Hakubi Researcher__ on Apr 1, 2025. \
   Hosted by [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
     [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/). \
-  [Info about the selection](https://www.hakubi.kyoto-u.ac.jp/en/rec_period/rec_15th/).
+  Self-introduction as a Hakubi researcher: [Web page](https://www.hakubi.kyoto-u.ac.jp/en/mem/matsushita/). \
+  Info about the selection: [Web page](https://www.hakubi.kyoto-u.ac.jp/en/rec_period/rec_15th/).
 - Apr 2024 – Mar 2025 \
   __JSPS Fellow (PD)__ at
     [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
