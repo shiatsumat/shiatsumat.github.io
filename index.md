@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: June 29, 2025)
+(Last updated: July 28, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -25,7 +25,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: May 2, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: July 28, 2025)
 
 ## Papers
 
@@ -37,7 +37,8 @@ Email: ysk.m24t@gmail.com
   Rocq artifact: [GitHub](https://github.com/hopv/nola),
     [Zenodo](https://doi.org/10.5281/zenodo.15050271). \
   Talk at [PLDI 2025](https://pldi25.sigplan.org/):
-    [Slides](./talks/pldi2025-nola-talk.pdf). \
+    [Slides](./talks/pldi2025-nola-talk.pdf),
+    [YouTube](https://www.youtube.com/watch?v=D7wD5tty_FY). \
   Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/):
     [Slides](./talks/iris2025-nola-talk.pdf).
 - [Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
@@ -153,7 +154,8 @@ Email: ysk.m24t@gmail.com
     PLDI 2025. \
   Talk at [PLDI 2025](https://pldi25.sigplan.org/). June 21, 2025.
     [Slides](./talks/pldi2025-nola-talk.pdf)
-    ([Keynote](./talks/pldi2025-nola-talk.key)).
+    ([Keynote](./talks/pldi2025-nola-talk.key)),
+    [YouTube](https://www.youtube.com/watch?v=D7wD5tty_FY).
   Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/). June
     2, 2025.
     [Slides](./talks/iris2025-nola-talk.pdf)
@@ -342,6 +344,8 @@ Email: ysk.m24t@gmail.com
 
 ## Service
 
+- Jan 2026 – Mar 2026 \
+  Program committee member of [PPL 2026](https://jssst-ppl.org/workshop/2026/).
 - Jan 2025 – Mar 2025 \
   Program committee member of [PPL 2025](https://jssst-ppl.org/workshop/2025/).
 
