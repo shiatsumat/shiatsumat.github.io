@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: July 28, 2025)
+(Last updated: Aug 7, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -17,15 +17,15 @@ I specialize in formal verification of stateful programs, especially those
   language processing (e.g., [SoftMatcha](#softmatcha)).
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
-  [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke),
   [ORCID](https://orcid.org/0000-0002-5208-3106),
-  [researchmap](https://researchmap.jp/y.matsushita?lang=en) \
+  [researchmap](https://researchmap.jp/y.matsushita?lang=en),
+  [dblp](https://dblp.uni-trier.de/pers/hd/m/Matsushita_0002:Yusuke) \
 [GitHub](https://github.com/shiatsumat),
   [Twitter](https://twitter.com/shiatsumat),
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: July 28, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Aug 7, 2025)
 
 ## Papers
 
@@ -318,6 +318,11 @@ Email: ysk.m24t@gmail.com
 
 ## Teaching
 
+- Aug 2025 \
+  [Lecturer](https://www.ipa.go.jp/jinzai/security-camp/2025/camp/zenkoku/profile.html#instructor26)
+    of [L1 Rust 検証器自作ゼミ (Rust Verifier Development Seminar)](https://www.ipa.go.jp/jinzai/security-camp/2025/camp/zenkoku/program/l.html#l1)
+    at [Security Camp 2025](https://www.ipa.go.jp/jinzai/security-camp/2025/camp/index.html)
+    by [IPA](https://www.ipa.go.jp/en/).
 - Aug 2024 \
   [Lecturer](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/profile.html#instructor35)
     of [S15 Rust プログラム検証ゼミ (Rust Program Verification Seminar)](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/zenkoku/program/kaihatsu.html#s15)
