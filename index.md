@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Aug 19, 2025)
+(Last updated: Sept 2, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -30,7 +30,7 @@ Email: ysk.m24t@gmail.com
 ## Papers
 
 - [_Yusuke Matsushita_ and Takeshi Tsukada. \
-  __Nola__: Later-Free Ghost State for Verifying Termination in Iris.]{#nola} \
+  __Nola__: Later-Free Ghost State for Verifying Termination in Iris]{#nola}. \
   [__PLDI 2025__](https://pldi25.sigplan.org/). June 16-20, 2025. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3729250),
     [Authors'](./papers/pldi2025-nola.pdf). \
@@ -44,7 +44,7 @@ Email: ysk.m24t@gmail.com
 - [Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
   __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
-    Searches.]{#softmatcha} \
+    Searches]{#softmatcha}. \
   [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24-28, 2025. \
   [Webpage](https://softmatcha.github.io/),
     [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo). \
@@ -61,7 +61,7 @@ Email: ysk.m24t@gmail.com
     [YouTube](https://www.youtube.com/watch?v=fBKjam3PN3U).
 - [_Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   __RustHornBelt__: A Semantic Foundation for Functional Verification of Rust
-    Programs with Unsafe Code.]{#rusthornbelt} \
+    Programs with Unsafe Code]{#rusthornbelt}. \
   [__PLDI 2022__](https://pldi22.sigplan.org/). June 13-17, 2022. \
   __Distinguished Paper Award__. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704),
@@ -73,7 +73,7 @@ Email: ysk.m24t@gmail.com
     [Slides](./talks/pldi2022-rusthornbelt-talk.pdf),
     [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI).
 - [_Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
-  __RustHorn__: CHC-based Verification for Rust Programs.]{#rusthorn} \
+  __RustHorn__: CHC-based Verification for Rust Programs]{#rusthorn}. \
   [__TOPLAS__](https://dl.acm.org/toc/toplas/2021/43/4). Oct 31, 2021. \
   Extended version of the same-titled ESOP 2020 paper. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3462205),
@@ -150,7 +150,7 @@ Email: ysk.m24t@gmail.com
 ## Talks
 
 - _Yusuke Matsushita_ and Takeshi Tsukada. \
-  [Nola: Later-Free Ghost State for Verifying Termination in Iris.](#nola).
+  [Nola: Later-Free Ghost State for Verifying Termination in Iris](#nola).
     PLDI 2025. \
   Talk at [PLDI 2025](https://pldi25.sigplan.org/). June 21, 2025.
     [Slides](./talks/pldi2025-nola-talk.pdf)
