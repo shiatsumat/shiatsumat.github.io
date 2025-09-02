@@ -25,7 +25,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Aug 19, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Sept 2, 2025)
 
 ## Papers
 
@@ -124,6 +124,11 @@ Email: ysk.m24t@gmail.com
 
 ## Lectures
 
+- _Yusuke Matsushita_. \
+  [Science of Software, the Fun of Rust](https://www.hakubi.kyoto-u.ac.jp/en/sem/sem_273/).
+    Hakubi Seminar No. 273. Sept 2, 2025.
+    [Slides](./talks/2025-hakubi-seminar-talk.pdf)
+    ([Keynote](./talks/2025-hakubi-seminar-talk.key)).
 - _Yusuke Matsushita_. The Fun of Rust. \
   Lecture for the Course of CCE, Grad School of Informatics, Kyoto University.
     Dec 20, 2024. \
