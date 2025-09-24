@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Sept 2, 2025)
+(Last updated: Sept 24, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -124,11 +124,11 @@ Email: ysk.m24t@gmail.com
 
 ## Lectures
 
-- _Yusuke Matsushita_. \
-  [Science of Software, the Fun of Rust](https://www.hakubi.kyoto-u.ac.jp/en/sem/sem_273/).
-    Hakubi Seminar No. 273. Sept 2, 2025.
+- _Yusuke Matsushita_. Science of Software, the Fun of Rust. \
+  Hakubi Seminar No. 273. Sept 2, 2025.
     [Slides](./talks/2025-hakubi-seminar-talk.pdf)
     ([Keynote](./talks/2025-hakubi-seminar-talk.key)).
+    [Info](https://www.hakubi.kyoto-u.ac.jp/en/sem/sem_273/).
 - _Yusuke Matsushita_. The Fun of Rust. \
   Lecture for the Course of CCE, Grad School of Informatics, Kyoto University.
     Dec 20, 2024. \
