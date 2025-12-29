@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Sept 24, 2025)
+(Last updated: Dec 30, 2025)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
@@ -13,8 +13,8 @@ I am a software scientist working as a Program-Specific Assistant Professor at
 I specialize in formal verification of stateful programs, especially those
   written in [Rust](https://www.rust-lang.org/) (e.g., my work
   [RustHorn](#rusthorn), [RustHornBelt](#rusthornbelt), and [Nola](#nola)). I am
-  also curious about many other topics, including algorithms and natural
-  language processing (e.g., [SoftMatcha](#softmatcha)).
+  also curious about many other topics, including quantum computing (e.g.,
+  [RapunSL](#rapunsl)) and algorithms (e.g., [SoftMatcha](#softmatcha)).
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
   [ORCID](https://orcid.org/0000-0002-5208-3106),
@@ -25,10 +25,18 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Sept 2, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Dec 30, 2025)
 
 ## Papers
 
+- [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
+    (*: equal contribution). \
+  __RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
+    and Mixing]{#rapunsl}. \
+  [__POPL 2026__](https://popl26.sigplan.org/). Jan 11-17, 2026. \
+  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3776648),
+    [arXiv](https://arxiv.org/abs/2511.23472),
+    [Authors'](./papers/popl2026-rapunsl.pdf).
 - [_Yusuke Matsushita_ and Takeshi Tsukada. \
   __Nola__: Later-Free Ghost State for Verifying Termination in Iris]{#nola}. \
   [__PLDI 2025__](https://pldi25.sigplan.org/). June 16-20, 2025. \
@@ -287,8 +295,14 @@ Email: ysk.m24t@gmail.com
     [HTML](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/page/7899/)
     (Japanese).
 
-## Grants
+## Grants & Fellowships
 
+- Apr 2026 - (Mar 2028) \
+  JSPS (学振) Overseas Research Fellowship (海外特別研究員). \
+  Host: [Derek Dreyer](people.mpi-sws.org/~dreyer/),
+    [MPI-SWS](https://www.mpi-sws.org/), Germany. \
+  Exploring New Foundations for Software Development in the Age of Rust
+    (Rust 時代におけるソフトウェア開発の新しい基礎の探究).
 - Apr 2025 – (Mar 2030) \
   The Hakubi Project, Kyoto University. \
   Exploring a New Age of Software Development Springing from Rust
