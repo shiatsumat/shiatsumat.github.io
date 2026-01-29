@@ -4,10 +4,10 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Dec 30, 2025)
+(Last updated: Jan 29, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
-  [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/eng)
+  [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
   and [the Graduate School of Informatics](https://www.i.kyoto-u.ac.jp/en/),
   [Kyoto University](https://www.kyoto-u.ac.jp/en). \
 I specialize in formal verification of stateful programs, especially those
@@ -322,7 +322,7 @@ Email: ysk.m24t@gmail.com
 
 - Apr 2025 – (Mar 2030) \
   Program-Specific __Assistant Professor__ at
-    [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/eng). \
+    [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/en). \
   For the project "Exploring a New Age of Software Development Springing from
     Rust". \
   Awarded the title of __Hakubi Researcher__ on Apr 1, 2025. \
