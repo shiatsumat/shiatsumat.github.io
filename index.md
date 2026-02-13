@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Jan 29, 2026)
+(Last updated: Feb 13, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -14,7 +14,10 @@ I specialize in formal verification of stateful programs, especially those
   written in [Rust](https://www.rust-lang.org/) (e.g., my work
   [RustHorn](#rusthorn), [RustHornBelt](#rusthornbelt), and [Nola](#nola)). I am
   also curious about many other topics, including quantum computing (e.g.,
-  [RapunSL](#rapunsl)) and algorithms (e.g., [SoftMatcha](#softmatcha)).
+  [RapunSL](#rapunsl)) and algorithms (e.g., [SoftMatcha](#softmatcha),
+  [SoftMatcha 2](#softmatcha-2)).
+
+[Self-introduction at the Hakubi Center](https://www.hakubi.kyoto-u.ac.jp/en/mem/matsushita/).
 
 [Google Scholar](https://scholar.google.com/citations?user=wd4nXRQAAAAJ),
   [ORCID](https://orcid.org/0000-0002-5208-3106),
@@ -25,10 +28,19 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Dec 30, 2025)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Feb 13, 2026)
 
 ## Papers
 
+- [Masataka Yoneda, _Yusuke Matsushita_, Go Kamoda, Kohei Suenaga,
+    Takuya Akiba, Masaki Waga and Sho Yokoi \
+  __SoftMatcha 2__: A Fast and Soft Pattern Matcher for Trillion-Scale
+    Corpora.]{#softmatcha-2}. \
+  arXiv. Feb 11, 2026. \
+  [Website](https://softmatcha.github.io/v2/),
+    [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
+    [Code](https://github.com/softmatcha/softmatcha2). \
+  Paper: [arXiv](https://arxiv.org/abs/2602.10908).
 - [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
     (*: equal contribution). \
   __RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
@@ -54,7 +66,9 @@ Email: ysk.m24t@gmail.com
   __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
     Searches]{#softmatcha}. \
   [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24-28, 2025. \
-  [Webpage](https://softmatcha.github.io/),
+  [Website](https://softmatcha.github.io/v1/),
+    [Demo](https://huggingface.co/softmatcha),
+    [Code](https://github.com/softmatcha/softmatcha),
     [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo). \
   Paper: [OpenReview](https://openreview.net/pdf?id=Q6PAnqYVpo),
     [arXiv](https://arxiv.org/abs/2503.03703).
@@ -213,10 +227,18 @@ Email: ysk.m24t@gmail.com
 
 ### Co-Authored
 
+- Masataka Yoneda, Go Kamoda, _Yusuke Matsushita_, Kohei Suenaga, Takuya Akiba,
+    Masaki Waga and Sho Yokoi. \
+  SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索 (SoftMatcha 2: Ultra-Fast and
+    Soft Searcher for Trillion-Scale Corpora). \
+  Precursor to [SoftMatcha 2](#softmatcha-2). \
+  [NLP 2026](https://www.anlp.jp/nlp2026/). Mar 10, 2026. \
+  [Paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q1-5.pdf).
 - Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
   SoftMatcha: 大規模コーパス検索のための柔らかくも高速なパターンマッチャー (SoftMatcha: A
     Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches). \
+  Precursor to [SoftMatcha](#softmatcha). \
   [NLP 2025](https://www.anlp.jp/nlp2025/). Mar 13, 2025. \
   [Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-20.pdf).
 
@@ -238,6 +260,26 @@ Email: ysk.m24t@gmail.com
 
 ### Co-Authored
 
+- Masayuki Goto, _Yusuke Matsushita_ and Atsushi Igarashi. \
+  型に基づくRust API探索の手法と実装 (Methods and Implementation of Type-based Rust
+    API Search). \
+  [PPL 2026](https://jssst-ppl.org/workshop/2026/). Mar 10, 2026.
+- Musashi Katsura, _Yusuke Matsushita_, Ken Sakayori and Naoki Kobayashi. \
+  動的な借用検査を活用したUnsafe Rustコードの正当性検査 (Testing Correctness of Unsafe
+    Rust Code Using Dynamic Borrow Checking). \
+  [PPL 2026](https://jssst-ppl.org/workshop/2026/). Mar 10, 2026.
+- Hirotaka Okada, _Yusuke Matsushita_ and Atsushi Igarashi. \
+  Rustライブラリのスレッド安全性に関するバグのプログラム合成による発見 (Finding
+    Thread-Safety Bugs in Rust Libraries Using Program Synthesis). \
+  [PPL 2026](https://jssst-ppl.org/workshop/2026/). Mar 10, 2026.
+- Sota Sato, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
+  関数型言語のバグ発見のための篩型システム (A Refinement Type System for Finding Bugs
+    in Functional Language). \
+  [PPL 2026](https://jssst-ppl.org/workshop/2026/). Mar 10, 2026.
+- Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
+  ポインタ演算と多次元配列のための所有権篩型システム (An Ownership Refinement Type
+    System for Pointer Arithmetic and Nested Arrays). \
+  [PPL 2026](https://jssst-ppl.org/workshop/2026/). Mar 10, 2026.
 - Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
   SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
@@ -369,13 +411,13 @@ Email: ysk.m24t@gmail.com
 ## Service
 
 - Jan 2026 – Mar 2026 \
-  Program committee member of [PPL 2026](https://jssst-ppl.org/workshop/2026/).
+  Program Committee member of [PPL 2026](https://jssst-ppl.org/workshop/2026/).
 - Nov 2025 – Apr 2026 \
-  Review committee member of [ACM PLDI 2026](https://pldi26.sigplan.org/).
-- Feb 2025 \
+  Review Committee member of [ACM PLDI 2026](https://pldi26.sigplan.org/).
+- Feb 2025 – Mar 2025 \
   External reviewer of [ACM PLDI 2025](https://pldi25.sigplan.org/).
 - Jan 2025 – Mar 2025 \
-  Program committee member of [PPL 2025](https://jssst-ppl.org/workshop/2025/).
+  Program Committee member of [PPL 2025](https://jssst-ppl.org/workshop/2025/).
 
 ## Internship
 
