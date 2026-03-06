@@ -12,9 +12,10 @@ I am a software scientist working as a Program-Specific Assistant Professor at
   [Kyoto University](https://www.kyoto-u.ac.jp/en). \
 I specialize in formal verification of stateful programs, especially those
   written in [Rust](https://www.rust-lang.org/) (e.g., [RustHorn](#rusthorn),
-  [RustHornBelt](#rusthornbelt), and [Nola](#nola)). I am also curious about
-  many other topics, including quantum computing (e.g., [RapunSL](#rapunsl)) and
-  algorithms (e.g., [SoftMatcha](#softmatcha), [SoftMatcha 2](#softmatcha-2)).
+  [RustHornBelt](#rusthornbelt), [Nola](#nola), [Pure Borrow](#pureborrow), and
+  [VerusBelt](#verusbelt)). I am also curious about many other topics, including
+  quantum computing (e.g., [RapunSL](#rapunsl)) and algorithms (e.g.,
+  [SoftMatcha](#softmatcha), [SoftMatcha 2](#softmatcha-2)).
 
 [Self-introduction at the Hakubi Center](https://www.hakubi.kyoto-u.ac.jp/en/mem/matsushita/).
 
@@ -31,6 +32,9 @@ Email: ysk.m24t@gmail.com
 
 ## Work
 
+- Apr 2026 – (Mar 2028). \
+  Visiting Scientist at [MPI-SWS](https://www.mpi-sws.org/), Germany. Host:
+    [Derek Dreyer](people.mpi-sws.org/~dreyer/).
 - Apr 2025 – (Mar 2030). \
   Program-Specific __Assistant Professor__ at
     [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/en). \
@@ -85,6 +89,15 @@ Email: ysk.m24t@gmail.com
     [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
     [Code](https://github.com/softmatcha/softmatcha2). \
   Paper: [arXiv](https://arxiv.org/abs/2602.10908).
+- [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_, Derek Dreyer. \
+  __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
+    the Rust Type System]{#verusbelt}. \
+  Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
+    15-19, 2026.
+- [_Yusuke Matsushita_ and Hiromi Ishii. \
+  __Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing]{#pure-borrow}. \
+  Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
+    15-19, 2026.
 - [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
     (*: equal contribution). \
   __RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
@@ -406,6 +419,8 @@ Email: ysk.m24t@gmail.com
 
 ## Service
 
+- Jul 2026 – Nov 2026. \
+  __Program Committee__ member of [__POPL 2027__](https://popl27.sigplan.org/).
 - Jan 2026 – Mar 2026. \
   Program Committee member of [PPL 2026](https://jssst-ppl.org/workshop/2026/).
 - Nov 2025 – Apr 2026. \
@@ -471,7 +486,7 @@ Email: ysk.m24t@gmail.com
 
 - [AtCoder](https://atcoder.jp/users/shiatsumat).
 - Contestant of the
-    [International Collegiate Programming Contest (ICPC)](https://icpc.baylor.edu/)
+    [ACM International Collegiate Programming Contest (ICPC)](https://icpc.baylor.edu/)
     Asia Regionals of
     [2019 (Yokohama)](https://icpc.iisf.or.jp/2019-yokohama/asia-yokohama-regional-contest-2019/),
     [2018 (Yokohama)](https://icpc.iisf.or.jp/2018-yokohama/asiaregional/) and
