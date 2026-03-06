@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Feb 13, 2026)
+(Last updated: Mar 6, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -33,7 +33,7 @@ Email: ysk.m24t@gmail.com
 ## Papers
 
 - [Masataka Yoneda, _Yusuke Matsushita_, Go Kamoda, Kohei Suenaga,
-    Takuya Akiba, Masaki Waga and Sho Yokoi \
+    Takuya Akiba, Masaki Waga and Sho Yokoi. \
   __SoftMatcha 2__: A Fast and Soft Pattern Matcher for Trillion-Scale
     Corpora.]{#softmatcha-2}. \
   arXiv. Feb 11, 2026. \
