@@ -33,12 +33,14 @@ Email: ysk.m24t@gmail.com
 ## Work
 
 - Apr 2026 – (Mar 2028). \
-  Visiting Scientist at [MPI-SWS](https://www.mpi-sws.org/), Germany. Host:
-    [Derek Dreyer](people.mpi-sws.org/~dreyer/).
+  Visiting Scientist at [__MPI-SWS__](https://www.mpi-sws.org/), Germany. Host:
+    [__Derek Dreyer__](people.mpi-sws.org/~dreyer/). \
+  As a __JSPS Overseas Research Fellow__ for my project "Exploring New
+    Foundations for Software Development in the Age of Rust".
 - Apr 2025 – (Mar 2030). \
   Program-Specific __Assistant Professor__ at
     [the Hakubi Center for Advanced Research, Kyoto University](https://www.hakubi.kyoto-u.ac.jp/en). \
-  For the project "Exploring a New Age of Software Development Springing from
+  For my project "Exploring a New Age of Software Development Springing from
     Rust". \
   Awarded the title of __Hakubi Researcher__ on Apr 1, 2025. \
   Host:
