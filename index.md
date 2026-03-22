@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Mar 7, 2026)
+(Last updated: Mar 22, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -83,13 +83,13 @@ Email: ysk.m24t@gmail.com
 - [Masataka Yoneda, _Yusuke Matsushita_, Go Kamoda, Kohei Suenaga,
     Takuya Akiba, Masaki Waga and Sho Yokoi. \
   __SoftMatcha 2__: A Fast and Soft Pattern Matcher for Trillion-Scale
-    Corpora.]{#softmatcha-2}. \
+    Corpora]{#softmatcha-2}. \
   arXiv. Feb 11, 2026. \
   [Website](https://softmatcha.github.io/v2/),
     [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
     [Code](https://github.com/softmatcha/softmatcha2). \
   Paper: [arXiv](https://arxiv.org/abs/2602.10908).
-- [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_, Derek Dreyer. \
+- [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
   Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
