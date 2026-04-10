@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Mar 7, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 10, 2026)
 
 ## Work
 
@@ -91,15 +91,20 @@ Email: ysk.m24t@gmail.com
     [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
     [Code](https://github.com/softmatcha/softmatcha2). \
   Paper: [arXiv](https://arxiv.org/abs/2602.10908).
+- Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
+  Ownership Refinement Types for Pointer Arithmetic and Nested Arrays. \
+  [__ECOOP 2026__](https://2026.ecoop.org/). June 29 – July 3, 2026.
 - [_Yusuke Matsushita_ and Hiromi Ishii. \
   __Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing]{#pure-borrow}. \
-  Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
-    15–19, 2026.
+  [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
+  Haskell Artifact:
+    [GitHub](https://github.com/SoftwareFoundationGroupAtKyotoU/pure-borrow),
+    [Zenodo](https://doi.org/10.5281/zenodo.18902180).
 - [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
-  Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
-    15–19, 2026.
+  [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
+  Rocq Artifact: [Zenodo](https://doi.org/10.5281/zenodo.19080058).
 - [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
     (*: equal contribution). \
   __RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
@@ -398,7 +403,7 @@ Email: ysk.m24t@gmail.com
 
 ## Grants & Fellowships
 
-- Apr 2026 - (Mar 2028) \
+- Apr 2026 – (Mar 2028) \
   JSPS (学振) Overseas Research Fellowship (海外特別研究員). \
   Host: [Derek Dreyer](people.mpi-sws.org/~dreyer/),
     [MPI-SWS](https://www.mpi-sws.org/), Germany. \
