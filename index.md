@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Mar 22, 2026)
+(Last updated: Apr 10, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -95,22 +95,22 @@ Email: ysk.m24t@gmail.com
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
   Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
-    15-19, 2026.
+    15–19, 2026.
 - [_Yusuke Matsushita_ and Hiromi Ishii. \
   __Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing]{#pure-borrow}. \
   Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
-    15-19, 2026.
+    15–19, 2026.
 - [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
     (*: equal contribution). \
   __RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
     and Mixing]{#rapunsl}. \
-  [__POPL 2026__](https://popl26.sigplan.org/). Jan 11-17, 2026. \
+  [__POPL 2026__](https://popl26.sigplan.org/). Jan 11–17, 2026. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3776648),
     [arXiv](https://arxiv.org/abs/2511.23472),
     [Authors'](./papers/popl2026-rapunsl.pdf).
 - [_Yusuke Matsushita_ and Takeshi Tsukada. \
   __Nola__: Later-Free Ghost State for Verifying Termination in Iris]{#nola}. \
-  [__PLDI 2025__](https://pldi25.sigplan.org/). June 16-20, 2025. \
+  [__PLDI 2025__](https://pldi25.sigplan.org/). June 16–20, 2025. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3729250),
     [Authors'](./papers/pldi2025-nola.pdf). \
   Rocq artifact: [GitHub](https://github.com/hopv/nola),
@@ -124,7 +124,7 @@ Email: ysk.m24t@gmail.com
     Suenaga, Masaki Waga and Sho Yokoi. \
   __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
     Searches]{#softmatcha}. \
-  [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24-28, 2025. \
+  [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24–28, 2025. \
   [Website](https://softmatcha.github.io/v1/),
     [Demo](https://huggingface.co/softmatcha),
     [Code](https://github.com/softmatcha/softmatcha),
@@ -135,7 +135,7 @@ Email: ysk.m24t@gmail.com
     Kobayashi. \
   Borrowable Fractional Ownership Types for Verification. \
   [__VMCAI 2024__](https://popl24.sigplan.org/home/VMCAI-2024). Jan
-    15-16, 2024. \
+    15–16, 2024. \
   Paper: [Springer](https://doi.org/10.1007/978-3-031-50521-8_11),
     [arXiv](https://arxiv.org/abs/2310.20430). \
   Talk at [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024):
@@ -143,7 +143,7 @@ Email: ysk.m24t@gmail.com
 - [_Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   __RustHornBelt__: A Semantic Foundation for Functional Verification of Rust
     Programs with Unsafe Code]{#rusthornbelt}. \
-  [__PLDI 2022__](https://pldi22.sigplan.org/). June 13-17, 2022. \
+  [__PLDI 2022__](https://pldi22.sigplan.org/). June 13–17, 2022. \
   __Distinguished Paper Award__. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704),
     [Authors'](./papers/pldi2022-rusthornbelt.pdf). \
@@ -161,7 +161,7 @@ Email: ysk.m24t@gmail.com
     [Authors'](./papers/toplas2021-rust-horn.pdf).
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
   __RustHorn__: CHC-based Verification for Rust Programs. \
-  [__ESOP 2020__](https://www.etaps.org/2020/esop). Apr 27-29, 2020. \
+  [__ESOP 2020__](https://www.etaps.org/2020/esop). Apr 27–29, 2020. \
   __Selected to TOPLAS Special Issue on ESOP 2020__. \
   Paper: [Authors'](./papers/esop2020-rust-horn.pdf),
     [Springer](https://doi.org/10.1007/978-3-030-44914-8_18),
