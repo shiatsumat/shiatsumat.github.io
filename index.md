@@ -12,9 +12,9 @@ I am a software scientist working as a Program-Specific Assistant Professor at
   [Kyoto University](https://www.kyoto-u.ac.jp/en). \
 I specialize in formal verification of stateful programs, especially those
   written in [Rust](https://www.rust-lang.org/) (e.g., [RustHorn](#rusthorn),
-  [RustHornBelt](#rusthornbelt), [Nola](#nola), [Pure Borrow](#pureborrow), and
-  [VerusBelt](#verusbelt)). I am also curious about many other topics, including
-  quantum computing (e.g., [RapunSL](#rapunsl)) and algorithms (e.g.,
+  [RustHornBelt](#rusthornbelt), [Nola](#nola), [VerusBelt](#verusbelt), and
+  [Pure Borrow](#pureborrow)). I am also curious about many other topics,
+  including quantum computing (e.g., [RapunSL](#rapunsl)) and algorithms (e.g.,
   [SoftMatcha](#softmatcha), [SoftMatcha 2](#softmatcha-2)).
 
 [Self-introduction at the Hakubi Center](https://www.hakubi.kyoto-u.ac.jp/en/mem/matsushita/).
@@ -91,13 +91,13 @@ Email: ysk.m24t@gmail.com
     [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
     [Code](https://github.com/softmatcha/softmatcha2). \
   Paper: [arXiv](https://arxiv.org/abs/2602.10908).
+- [_Yusuke Matsushita_ and Hiromi Ishii. \
+  __Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing]{#pure-borrow}. \
+  Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
+    15–19, 2026.
 - [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
-  Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
-    15–19, 2026.
-- [_Yusuke Matsushita_ and Hiromi Ishii. \
-  __Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing]{#pure-borrow}. \
   Conditionally accepted for [__PLDI 2026__](https://pldi26.sigplan.org/). June
     15–19, 2026.
 - [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
