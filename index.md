@@ -421,7 +421,7 @@ Email: ysk.m24t@gmail.com
 
 ## Service
 
-- Jul 2026 – Nov 2026. \
+- July 2026 – Nov 2026. \
   __Program Committee__ member of [__POPL 2027__](https://popl27.sigplan.org/).
 - Jan 2026 – Mar 2026. \
   Program Committee member of [PPL 2026](https://jssst-ppl.org/workshop/2026/).
