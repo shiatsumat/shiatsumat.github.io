@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 10, 2026)
+(Last updated: Apr 27, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 10, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 27, 2026)
 
 ## Work
 
@@ -99,12 +99,12 @@ Email: ysk.m24t@gmail.com
   [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
   Haskell Artifact:
     [GitHub](https://github.com/SoftwareFoundationGroupAtKyotoU/pure-borrow),
-    [Zenodo](https://doi.org/10.5281/zenodo.18902180).
+    [Zenodo](https://zenodo.org/records/19622061).
 - [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
   [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
-  Rocq Artifact: [Zenodo](https://doi.org/10.5281/zenodo.19080058).
+  Rocq Artifact: [Zenodo](https://zenodo.org/records/19613067).
 - [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
     (*: equal contribution). \
   __RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
@@ -119,7 +119,7 @@ Email: ysk.m24t@gmail.com
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3729250),
     [Authors'](./papers/pldi2025-nola.pdf). \
   Rocq artifact: [GitHub](https://github.com/hopv/nola),
-    [Zenodo](https://doi.org/10.5281/zenodo.15050271). \
+    [Zenodo](https://zenodo.org/records/15190682). \
   Talk at [PLDI 2025](https://pldi25.sigplan.org/):
     [Slides](./talks/pldi2025-nola-talk.pdf),
     [YouTube](https://www.youtube.com/watch?v=D7wD5tty_FY). \
@@ -141,7 +141,7 @@ Email: ysk.m24t@gmail.com
   Borrowable Fractional Ownership Types for Verification. \
   [__VMCAI 2024__](https://popl24.sigplan.org/home/VMCAI-2024). Jan
     15–16, 2024. \
-  Paper: [Springer](https://doi.org/10.1007/978-3-031-50521-8_11),
+  Paper: [Springer](https://link.springer.com/chapter/10.1007/978-3-031-50521-8_11),
     [arXiv](https://arxiv.org/abs/2310.20430). \
   Talk at [VMCAI 2024](https://popl24.sigplan.org/home/VMCAI-2024):
     [YouTube](https://www.youtube.com/watch?v=fBKjam3PN3U).
@@ -152,7 +152,7 @@ Email: ysk.m24t@gmail.com
   __Distinguished Paper Award__. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3519939.3523704),
     [Authors'](./papers/pldi2022-rusthornbelt.pdf). \
-  Artifacts: [Zenodo](https://zenodo.org/record/6501665#.YoycDmBByJE);
+  Artifacts: [Zenodo](https://zenodo.org/record/6501665);
     [Rocq mechanization](https://gitlab.mpi-sws.org/iris/lambda-rust/-/tree/masters/rusthornbelt),
     [Benchmarks](https://github.com/xldenis/rhb-specs). \
   Talk at [PLDI 2022](https://pldi22.sigplan.org/):
@@ -169,7 +169,7 @@ Email: ysk.m24t@gmail.com
   [__ESOP 2020__](https://www.etaps.org/2020/esop). Apr 27–29, 2020. \
   __Selected to TOPLAS Special Issue on ESOP 2020__. \
   Paper: [Authors'](./papers/esop2020-rust-horn.pdf),
-    [Springer](https://doi.org/10.1007/978-3-030-44914-8_18),
+    [Springer](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_18),
     [arXiv](https://arxiv.org/abs/2002.09002). \
   Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme):
     [Slides](./talks/etaps2021-esop2020-rust-horn-talk.pdf)
