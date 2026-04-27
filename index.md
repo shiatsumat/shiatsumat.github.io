@@ -97,6 +97,9 @@ Email: ysk.m24t@gmail.com
 - [_Yusuke Matsushita_ and Hiromi Ishii. \
   __Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing]{#pure-borrow}. \
   [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
+  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3808259),
+    [arXiv](https://arxiv.org/abs/2604.15290),
+    [Authors'](./papers/pldi2026-pure-borrow.pdf). \
   Haskell Artifact:
     [GitHub](https://github.com/SoftwareFoundationGroupAtKyotoU/pure-borrow),
     [Zenodo](https://zenodo.org/records/19622061).
@@ -104,6 +107,8 @@ Email: ysk.m24t@gmail.com
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
   [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
+  Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3808325),
+    [Authors'](https://iris-project.org/pdfs/2026-pldi-verusbelt.pdf). \
   Rocq Artifact: [Zenodo](https://zenodo.org/records/19613067).
 - [_Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele D'Osualdo
     (*: equal contribution). \
