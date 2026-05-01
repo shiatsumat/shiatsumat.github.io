@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Apr 27, 2026)
+(Last updated: May 1, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Apr 27, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: May 1, 2026)
 
 ## Work
 
@@ -86,7 +86,7 @@ Email: ysk.m24t@gmail.com
     Takuya Akiba, Masaki Waga and Sho Yokoi. \
   __SoftMatcha 2__: A Fast and Soft Pattern Matcher for Trillion-Scale
     Corpora]{#softmatcha-2}. \
-  arXiv. Feb 11, 2026. \
+  [__ICML 2026__](https://icml.cc/Conferences/2026). July 6–11, 2026. \
   [Website](https://softmatcha.github.io/v2/),
     [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
     [Code](https://github.com/softmatcha/softmatcha2). \
