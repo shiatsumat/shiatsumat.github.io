@@ -106,6 +106,7 @@ Email: ysk.m24t@gmail.com
 - [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
+  __Distinguished Paper Award__. \
   [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3808325),
     [Authors'](https://iris-project.org/pdfs/2026-pldi-verusbelt.pdf). \
