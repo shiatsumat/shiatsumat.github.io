@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: May 1, 2026)
+(Last updated: May 25, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: May 1, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: May 25, 2026)
 
 ## Work
 
@@ -50,7 +50,7 @@ Email: ysk.m24t@gmail.com
   Self-introduction as a Hakubi researcher: [Web page](https://www.hakubi.kyoto-u.ac.jp/en/mem/matsushita/). \
   Info about the selection: [Web page](https://www.hakubi.kyoto-u.ac.jp/en/rec_period/rec_15th/).
 - Apr 2024 – Mar 2025. \
-  __JSPS Fellow (PD)__ at
+  __JSPS Research Fellow (PD)__ at
     [the Computer Software Group](https://www.fos.kuis.kyoto-u.ac.jp/index.html.en),
     [Grad School of Informatics, Kyoto University](https://www.i.kyoto-u.ac.jp/en/).
 
