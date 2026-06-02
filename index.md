@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: May 25, 2026)
+(Last updated: June 3, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -433,11 +433,13 @@ Email: ysk.m24t@gmail.com
 ## Service
 
 - July 2026 – Nov 2026. \
-  __Program Committee__ member of [__POPL 2027__](https://popl27.sigplan.org/).
+  [__Program Committee__](https://popl27.sigplan.org/committee/POPL-2027-popl-research-papers-program-committee)
+    member of [__POPL 2027__](https://popl27.sigplan.org/).
 - Jan 2026 – Mar 2026. \
   Program Committee member of [PPL 2026](https://jssst-ppl.org/workshop/2026/).
 - Nov 2025 – Apr 2026. \
-  __Review Committee__ member of [__PLDI 2026__](https://pldi26.sigplan.org/).
+  [__Review Committee__](https://pldi26.sigplan.org/committee/pldi-2026-papers-pldi-review-committee)
+    member of [__PLDI 2026__](https://pldi26.sigplan.org/).
 - Feb 2025 – Mar 2025. \
   External reviewer of [PLDI 2025](https://pldi25.sigplan.org/).
 - Jan 2025 – Mar 2025. \
