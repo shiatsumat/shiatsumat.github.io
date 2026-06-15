@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: June 3, 2026)
+(Last updated: June 15, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: May 25, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: June 15, 2026)
 
 ## Work
 
@@ -82,6 +82,10 @@ Email: ysk.m24t@gmail.com
 
 ## Papers
 
+- Takashi Nagatomi, Musashi Katsura, Naoki Kobayashi, _Yusuke Matsushita_ and
+    Ken Sakayori. \
+  Prophecy-Based Automated Verification of Message-Passing Programs. \
+  [__CONCUR 2026__](https://confest-2026.github.io/concur/). June 1–4, 2026.
 - [Masataka Yoneda, _Yusuke Matsushita_, Go Kamoda, Kohei Suenaga,
     Takuya Akiba, Masaki Waga and Sho Yokoi. \
   __SoftMatcha 2__: A Fast and Soft Pattern Matcher for Trillion-Scale
