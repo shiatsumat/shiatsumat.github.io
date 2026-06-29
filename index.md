@@ -109,7 +109,10 @@ Email: ysk.m24t@gmail.com
     [Authors'](./papers/pldi2026-pure-borrow.pdf). \
   Haskell Artifact:
     [GitHub](https://github.com/SoftwareFoundationGroupAtKyotoU/pure-borrow),
-    [Zenodo](https://zenodo.org/records/19622061).
+    [Zenodo](https://zenodo.org/records/19622061). \
+  Talk at [PLDI 2026](https://pldi26.sigplan.org/):
+    [Slides](./talks/pldi2026-pure-borrow-talk.pdf)
+    ([Keynote](./talks/pldi2026-pure-borrow-talk.key)).
 - [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
