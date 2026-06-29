@@ -134,10 +134,12 @@ Email: ysk.m24t@gmail.com
   Rocq artifact: [GitHub](https://github.com/hopv/nola),
     [Zenodo](https://zenodo.org/records/15190682). \
   Talk at [PLDI 2025](https://pldi25.sigplan.org/):
-    [Slides](./talks/pldi2025-nola-talk.pdf),
+    [Slides](./talks/pldi2025-nola-talk.pdf)
+    ([Keynote](./talks/pldi2025-nola-talk.key)),
     [YouTube](https://www.youtube.com/watch?v=D7wD5tty_FY). \
   Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/):
-    [Slides](./talks/iris2025-nola-talk.pdf).
+    [Slides](./talks/iris2025-nola-talk.pdf)
+    ([Keynote](./talks/iris2025-nola-talk.key)).
 - [Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
   __SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
