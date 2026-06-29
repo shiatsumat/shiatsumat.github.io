@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: June 15, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: June 29, 2026)
 
 ## Work
 
@@ -94,8 +94,10 @@ Email: ysk.m24t@gmail.com
   [__ICML 2026__](https://icml.cc/Conferences/2026). July 6–11, 2026. \
   [Website](https://softmatcha.github.io/v2/),
     [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
-    [Code](https://github.com/softmatcha/softmatcha2). \
-  Paper: [arXiv](https://arxiv.org/abs/2602.10908).
+    [Code](https://github.com/softmatcha/softmatcha2),
+    [OpenReview](https://openreview.net/forum?id=y1czGbUum5). \
+  Paper: [OpenReview](https://openreview.net/pdf?id=y1czGbUum5),
+    [arXiv](https://arxiv.org/abs/2602.10908).
 - Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
   Ownership Refinement Types for Pointer Arithmetic and Nested Arrays. \
   [__ECOOP 2026__](https://2026.ecoop.org/). June 29 – July 3, 2026.
