@@ -13,7 +13,7 @@ I am a software scientist working as a Program-Specific Assistant Professor at
 I specialize in formal verification of stateful programs, especially those
   written in [Rust](https://www.rust-lang.org/) (e.g., [RustHorn](#rusthorn),
   [RustHornBelt](#rusthornbelt), [Nola](#nola), [VerusBelt](#verusbelt), and
-  [Pure Borrow](#pureborrow)). I am also curious about many other topics,
+  [Pure Borrow](#pure-borrow)). I am also curious about many other topics,
   including quantum computing (e.g., [RapunSL](#rapunsl)) and algorithms (e.g.,
   [SoftMatcha](#softmatcha), [SoftMatcha 2](#softmatcha-2)).
 
