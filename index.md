@@ -125,7 +125,9 @@ Email: ysk.m24t@gmail.com
   [__POPL 2026__](https://popl26.sigplan.org/). Jan 11–17, 2026. \
   Paper: [ACM-DL](https://dl.acm.org/doi/10.1145/3776648),
     [arXiv](https://arxiv.org/abs/2511.23472),
-    [Authors'](./papers/popl2026-rapunsl.pdf).
+    [Authors'](./papers/popl2026-rapunsl.pdf). \
+  Talk at [POPL 2026](https://popl26.sigplan.org/):
+    [YouTube](https://www.youtube.com/watch?v=CBR9EfKSjBY).
 - [_Yusuke Matsushita_ and Takeshi Tsukada. \
   __Nola__: Later-Free Ghost State for Verifying Termination in Iris]{#nola}. \
   [__PLDI 2025__](https://pldi25.sigplan.org/). June 16–20, 2025. \
@@ -289,12 +291,14 @@ Email: ysk.m24t@gmail.com
   Talk at [TPSA 2025](https://popl25.sigplan.org/home/tpsa-2025). Jan 21, 2025.
     [Extended abstract](./papers/tpsa2025-cqsl.pdf),
     [Slides](./talks/tpsa2025-cqsl-talk.pdf)
-    ([Powerpoint](./talks/tpsa2025-cqsl-talk.pptx)). \
+    ([Powerpoint](./talks/tpsa2025-cqsl-talk.pptx)),
+    [YouTube](https://www.youtube.com/watch?v=vDaKBKWJn1k). \
   Talk at [PLanQC 2025](https://popl25.sigplan.org/home/planqc-2025) (Presented
     by Ryo Wakizaka). Jan 25, 2025.
     [Extended abstract](./papers/planqc2025-cqsl.pdf),
     [Slides](./talks/planqc2025-cqsl-talk.pdf)
-    ([Powerpoint](./talks/planqc2025-cqsl-talk.pptx)).
+    ([Powerpoint](./talks/planqc2025-cqsl-talk.pptx)),
+    [YouTube](https://www.youtube.com/watch?v=tu_qGcfGaFY).
 - _Yusuke Matsushita_. \
   Rust から広がるプログラム検証・テストの新展望 (New Perspectives on Program
     Verification and Testing Spreading from Rust). \
