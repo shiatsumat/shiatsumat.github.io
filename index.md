@@ -383,8 +383,8 @@ Email: ysk.m24t@gmail.com
   [PPL 2026](https://jssst-ppl.org/workshop/2026/). Mar 10, 2026.
 - Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
-  SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
-    Searches. \
+  [SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
+    Searches](#softmatcha). \
   [ICLR 2025](https://iclr.cc/Conferences/2025). Apr 24, 2025. \
   [ICLR page](https://iclr.cc/virtual/2025/poster/29709),
     [Webpage](https://softmatcha.github.io/),
