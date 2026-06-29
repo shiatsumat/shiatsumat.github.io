@@ -100,7 +100,10 @@ Email: ysk.m24t@gmail.com
     [arXiv](https://arxiv.org/abs/2602.10908).
 - Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
   Ownership Refinement Types for Pointer Arithmetic and Nested Arrays. \
-  [__ECOOP 2026__](https://2026.ecoop.org/). June 29 – July 3, 2026.
+  [__ECOOP 2026__](https://2026.ecoop.org/). June 29 – July 3, 2026. \
+  Paper:
+    [Dagstuhl](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2026.6),
+    [arXiv](https://arxiv.org/abs/2604.22361).
 - [_Yusuke Matsushita_ and Hiromi Ishii. \
   __Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing]{#pure-borrow}. \
   [__PLDI 2026__](https://pldi26.sigplan.org/). June 15–19, 2026. \
