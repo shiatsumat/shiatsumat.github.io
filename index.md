@@ -97,7 +97,9 @@ Email: ysk.m24t@gmail.com
     [Code](https://github.com/softmatcha/softmatcha2),
     [OpenReview](https://openreview.net/forum?id=y1czGbUum5). \
   Paper: [OpenReview](https://openreview.net/pdf?id=y1czGbUum5),
-    [arXiv](https://arxiv.org/abs/2602.10908).
+    [arXiv](https://arxiv.org/abs/2602.10908). \
+  Poster: [Web page](https://icml.cc/virtual/2026/poster/60653),
+    [PNG](https://icml.cc/media/PosterPDFs/ICML%202026/60653.png).
 - Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
   Ownership Refinement Types for Pointer Arithmetic and Nested Arrays. \
   [__ECOOP 2026__](https://2026.ecoop.org/). June 29 – July 3, 2026. \
@@ -159,6 +161,8 @@ Email: ysk.m24t@gmail.com
     [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo). \
   Paper: [OpenReview](https://openreview.net/pdf?id=Q6PAnqYVpo),
     [arXiv](https://arxiv.org/abs/2503.03703).
+  Poster: [Web page](https://iclr.cc/virtual/2025/poster/29709),
+    [PNG](https://iclr.cc/media/PosterPDFs/ICLR%202025/29709.png).
 - Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori, Ryosuke Sato and Naoki
     Kobayashi. \
   Borrowable Fractional Ownership Types for Verification. \
@@ -281,13 +285,24 @@ Email: ysk.m24t@gmail.com
 
 ## Talks
 
+- _Yusuke Matsushita_ and Hiromi Ishii. \
+  [__Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing](#pure-borrow). \
+  Talk at [__PLDI 2026__](https://pldi26.sigplan.org/). June 19, 2026.
+    [Slides](./talks/pldi2026-pure-borrow-talk.pdf)
+    ([Keynote](./talks/pldi2026-pure-borrow-talk.key)).
+- _Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele
+    D'Osualdo (*: equal contribution). \
+  [__RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
+    and Mixing](#rapunsl). \
+  Talk at [__POPL 2026__](https://popl26.sigplan.org/) (Presented by Kengo
+    Hirata). Jan 14, 2026.
+    [YouTube](https://www.youtube.com/watch?v=CBR9EfKSjBY).
 - _Yusuke Matsushita_ and Takeshi Tsukada. \
-  [Nola: Later-Free Ghost State for Verifying Termination in Iris](#nola).
-    PLDI 2025. \
-  Talk at [PLDI 2025](https://pldi25.sigplan.org/). June 21, 2025.
+  [__Nola__: Later-Free Ghost State for Verifying Termination in Iris](#nola).
+  Talk at [__PLDI 2025__](https://pldi25.sigplan.org/). June 21, 2025.
     [Slides](./talks/pldi2025-nola-talk.pdf)
     ([Keynote](./talks/pldi2025-nola-talk.key)),
-    [YouTube](https://www.youtube.com/watch?v=D7wD5tty_FY).
+    [YouTube](https://www.youtube.com/watch?v=D7wD5tty_FY). \
   Talk at [Iris Workshop 2025](https://iris-project.org/workshop-2025/). June
     2, 2025.
     [Slides](./talks/iris2025-nola-talk.pdf)
@@ -313,14 +328,15 @@ Email: ysk.m24t@gmail.com
     ([Keynote](./talks/pro-2024-1-invited-talk.key)).
 - _Yusuke Matsushita_, Xavier Denis, Jacques-Henri Jourdan and Derek Dreyer. \
   [RustHornBelt: A Semantic Foundation for Functional Verification of Rust
-    Programs with Unsafe Code](#rusthornbelt). PLDI 2022. \
-  Talk at [PLDI 2022](https://pldi22.sigplan.org/). June 17, 2022.
+    Programs with Unsafe Code](#rusthornbelt). \
+  Talk at [__PLDI 2022__](https://pldi22.sigplan.org/) (Presented by
+    _Yusuke Matsushita_ and Xavier Denis). June 17, 2022.
     [Slides](./talks/pldi2022-rusthornbelt-talk.pdf),
     [YouTube](https://www.youtube.com/watch?v=pOg4dEhr5hI).
 - _Yusuke Matsushita_, Takeshi Tsukada and Naoki Kobayashi. \
-  [RustHorn: CHC-based Verification for Rust Programs](#rusthorn). ESOP 2020. \
-  Talk at [ESOP 2020](https://etaps.org/2021/esop/esop-2020-programme). Mar 31,
-    2021 (delayed due to the pandemic).
+  [RustHorn: CHC-based Verification for Rust Programs](#rusthorn). \
+  Talk at [__ESOP 2020__](https://etaps.org/2021/esop/esop-2020-programme). Mar
+    31, 2021 (delayed due to the pandemic).
     [Slides](./talks/etaps2021-esop2020-rust-horn-talk.pdf)
     ([Keynote](./talks/etaps2021-esop2020-rust-horn-talk.key)),
     [Video](https://www.morressier.com/article/rusthorn-chcbased-verification-rust-programs/604907f41a80aac83ca25d55). \
@@ -334,27 +350,40 @@ Email: ysk.m24t@gmail.com
 
 ### Co-Authored
 
+- Yusuke Fujiwara, _Yusuke Matsushita_, Kohei Suenaga and Atsushi Igarashi. \
+  Ownership Refinement Types for Pointer Arithmetic and Nested Arrays. \
+  Talk at [__ECOOP 2026__](https://2026.ecoop.org/). July 1, 2026.
+- Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
+  [__VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
+    the Rust Type System](#verusbelt). \
+  Talk at [__PLDI 2026__](https://pldi26.sigplan.org/). June 19, 2026.
 - Masataka Yoneda, Go Kamoda, _Yusuke Matsushita_, Kohei Suenaga, Takuya Akiba,
     Masaki Waga and Sho Yokoi. \
-  SoftMatcha 2: 1兆語規模コーパスの超高速かつ柔らかい検索 (SoftMatcha 2: Ultra-Fast and
-    Soft Searcher for Trillion-Scale Corpora). \
+  __SoftMatcha 2__: 1兆語規模コーパスの超高速かつ柔らかい検索 (SoftMatcha 2: Ultra-Fast
+    and Soft Searcher for Trillion-Scale Corpora). \
   Precursor to [SoftMatcha 2](#softmatcha-2). \
-  [NLP 2026](https://www.anlp.jp/nlp2026/). Mar 10, 2026. \
+  Talk at [__NLP 2026__](https://www.anlp.jp/nlp2026/). Mar 10, 2026. \
   [Paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q1-5.pdf).
 - Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
-  SoftMatcha: 大規模コーパス検索のための柔らかくも高速なパターンマッチャー (SoftMatcha: A
-    Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches). \
+  __SoftMatcha__: 大規模コーパス検索のための柔らかくも高速なパターンマッチャー (SoftMatcha:
+    A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches). \
   Precursor to [SoftMatcha](#softmatcha). \
-  [NLP 2025](https://www.anlp.jp/nlp2025/). Mar 13, 2025. \
+  Talk at [__NLP 2025__](https://www.anlp.jp/nlp2025/). Mar 13, 2025. \
   [Paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P8-20.pdf).
+- Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori, Ryosuke Sato and Naoki
+    Kobayashi. \
+  Borrowable Fractional Ownership Types for Verification. \
+  Talk at [__VMCAI 2024__](https://popl24.sigplan.org/home/VMCAI-2024). Jan
+    16, 2024. \
+  [YouTube](https://www.youtube.com/watch?v=fBKjam3PN3U).
 
 ## Posters
 
 - _Yusuke Matsushita_, Yudai Tanabe, Taro Sekiyama and Atsushi Igarashi. \
   Linear Haskell での Rust 流借用の純粋な実現 (Pure Realization of Rust-Style
     Borrows in Linear Haskell). \
-  Precursor to [Pure Borrow](#pure-borrow). \
+  Precursor to [__Pure Borrow__](#pure-borrow). \
   [PPL 2025](https://jssst-ppl.org/workshop/2025/). Mar 5, 2025.
     [PDF](./posters/ppl2025-pure-borrow-poster.pdf)
     ([Keynote](./posters/ppl2025-pure-borrow-poster.key)). \
@@ -368,6 +397,13 @@ Email: ysk.m24t@gmail.com
 
 ### Co-Authored
 
+- Masataka Yoneda, _Yusuke Matsushita_, Go Kamoda, Kohei Suenaga,
+    Takuya Akiba, Masaki Waga and Sho Yokoi. \
+  [__SoftMatcha 2__: A Fast and Soft Pattern Matcher for Trillion-Scale
+    Corpora](#softmatcha-2). \
+  [__ICML 2026__](https://icml.cc/Conferences/2026). July 8, 2026.
+  Poster: [Web page](https://icml.cc/virtual/2026/poster/60653),
+    [PNG](https://icml.cc/media/PosterPDFs/ICML%202026/60653.png).
 - Masayuki Goto, _Yusuke Matsushita_ and Atsushi Igarashi. \
   型に基づくRust API探索の手法と実装 (Methods and Implementation of Type-based Rust
     API Search). \
@@ -390,12 +426,11 @@ Email: ysk.m24t@gmail.com
   [PPL 2026](https://jssst-ppl.org/workshop/2026/). Mar 10, 2026.
 - Hiroyuki Deguchi, Go Kamoda, _Yusuke Matsushita_, Chihiro Taguchi, Kohei
     Suenaga, Masaki Waga and Sho Yokoi. \
-  [SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
+  [__SoftMatcha__: A Soft and Fast Pattern Matcher for Billion-Scale Corpus
     Searches](#softmatcha). \
-  [ICLR 2025](https://iclr.cc/Conferences/2025). Apr 24, 2025. \
-  [ICLR page](https://iclr.cc/virtual/2025/poster/29709),
-    [Webpage](https://softmatcha.github.io/),
-    [OpenReview](https://openreview.net/forum?id=Q6PAnqYVpo).
+  Poster at [__ICLR 2025__](https://iclr.cc/Conferences/2025). Apr 24, 2025.
+    [Web page](https://iclr.cc/virtual/2025/poster/29709),
+    [PNG](https://iclr.cc/media/PosterPDFs/ICLR%202025/29709.png).
 - Takashi Nakayama, _Yusuke Matsushita_, Ken Sakayori and Naoki Kobayashi. \
   メモリ安全性のためのC++オブジェクトモデルのハイレベルな形式化 (High-Level Formalization
     of the C++ Object Model for Memory Safety). \
@@ -420,7 +455,7 @@ Email: ysk.m24t@gmail.com
     Grep/KWIC: Making Fast Word Sequence Matching Continuous Using Embedded
     Representations). \
   [YANS 2024](https://yans.anlp.jp/entry/yans2024). Sept 5, 2024. \
-  Precursor to [SoftMatcha](#softmatcha). \
+  Precursor to [__SoftMatcha__](#softmatcha). \
   __Best Demo Award__ and __Award by Recruit Holdings__.
 - Takashi Nakayama, Naoki Kobayashi, Ryosuke Sato and _Yusuke Matsushita_. \
   命令型プログラムの検証のためのライフタイム付き分数所有権型システム (Fractional Ownership
