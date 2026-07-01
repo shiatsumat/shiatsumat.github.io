@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: June 29, 2026)
+(Last updated: July 1, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -135,7 +135,8 @@ Email: ysk.m24t@gmail.com
     [arXiv](https://arxiv.org/abs/2511.23472),
     [Authors'](./papers/popl2026-rapunsl.pdf). \
   Talk at [POPL 2026](https://popl26.sigplan.org/):
-    [YouTube](https://www.youtube.com/watch?v=CBR9EfKSjBY).
+    [YouTube](https://www.youtube.com/watch?v=CBR9EfKSjBY),
+    [Slides](https://kengohirata.github.io/khirata/RapunSL_POPL.pdf).
 - [_Yusuke Matsushita_ and Takeshi Tsukada. \
   __Nola__: Later-Free Ghost State for Verifying Termination in Iris]{#nola}. \
   [__PLDI 2025__](https://pldi25.sigplan.org/). June 16–20, 2025. \
