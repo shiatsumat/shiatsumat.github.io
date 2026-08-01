@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: July 1, 2026)
+(Last updated: Aug 1, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: June 29, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Aug 1, 2026)
 
 ## Work
 
@@ -116,8 +116,13 @@ Email: ysk.m24t@gmail.com
     [GitHub](https://github.com/SoftwareFoundationGroupAtKyotoU/pure-borrow),
     [Zenodo](https://zenodo.org/records/19622061). \
   Talk at [PLDI 2026](https://pldi26.sigplan.org/):
+    [YouTube](https://www.youtube.com/watch?v=wDgdJliD2d0),
     [Slides](./talks/pldi2026-pure-borrow-talk.pdf)
-    ([Keynote](./talks/pldi2026-pure-borrow-talk.key)).
+    ([Keynote](./talks/pldi2026-pure-borrow-talk.key)). \
+  Poster for
+    [2025 Hakubi Annual Report Meeting](https://www.hakubi.kyoto-u.ac.jp/en/news/event_20260615/):
+    [Poster](./posters/hakubi-annual-2026-poster.pdf)
+    ([PowerPoint](./posters/hakubi-annual-2026-poster.pptx)).
 - [Travis Hance, Laila Elbeheiry, _Yusuke Matsushita_ and Derek Dreyer. \
   __VerusBelt__: A Semantic Foundation for Verus's Proof-Oriented Extensions to
     the Rust Type System]{#verusbelt}. \
@@ -289,6 +294,7 @@ Email: ysk.m24t@gmail.com
 - _Yusuke Matsushita_ and Hiromi Ishii. \
   [__Pure Borrow__: Linear Haskell Meets Rust-Style Borrowing](#pure-borrow). \
   Talk at [__PLDI 2026__](https://pldi26.sigplan.org/). June 19, 2026.
+    [YouTube](https://www.youtube.com/watch?v=wDgdJliD2d0),
     [Slides](./talks/pldi2026-pure-borrow-talk.pdf)
     ([Keynote](./talks/pldi2026-pure-borrow-talk.key)).
 - _Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele
