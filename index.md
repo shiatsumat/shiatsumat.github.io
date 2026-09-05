@@ -243,6 +243,14 @@ Email: ysk.m24t@gmail.com
 
 ## Lectures
 
+- _Yusuke Matsushita_. ソフトウェアの未来を科学する——Rust に誘われて (Sciencing the
+    Future of Software—Allured by Rust). \
+  Invited talk at [the 59th Joho-kagaku Wakate-no-kai (Young People's Symposium
+    on Information Science)](https://wakate.org/2026/07/15/59th-general/).
+    Sept 5, 2026. \
+  [Slides (English)](./talks/wakate2026-invited-talk.pdf)
+    ([With animation](./talks/wakate2026-invited-talk-animated.pdf),
+    [Keynote](./talks/wakate2026-invited-talk.key)).
 - _Yusuke Matsushita_. Science of Software, the Fun of Rust. \
   Hakubi Seminar No. 273. Sept 2, 2025.
     [Slides](./talks/2025-hakubi-seminar-talk.pdf)
