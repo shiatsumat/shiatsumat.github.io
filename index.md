@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Sept 13, 2026)
+(Last updated: Sept 26, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -304,7 +304,15 @@ Email: ysk.m24t@gmail.com
   Talk at [__PLDI 2026__](https://pldi26.sigplan.org/). June 19, 2026.
     [YouTube](https://www.youtube.com/watch?v=wDgdJliD2d0),
     [Slides](./talks/pldi2026-pure-borrow-talk.pdf)
-    ([Keynote](./talks/pldi2026-pure-borrow-talk.key)).
+    ([Keynote](./talks/pldi2026-pure-borrow-talk.key)). \
+  Talk at the [Bristol PLRG](https://plrg-bristol.github.io/). Sept 15, 2026.
+    [YouTube](https://www.youtube.com/watch?v=4TRYc61pG-M),
+    [Slides](./talks/bristol2026-pure-borrow-talk.pdf)
+    ([Keynote](./talks/bristol2026-pure-borrow-talk.key)). \
+  [Talk](https://www.cst.cam.ac.uk/seminars/list/272942) at the
+    [Logic and Semantics Seminar at the University of Cambridge](https://www.cst.cam.ac.uk/seminar-series/logic-and-semantics-seminar).
+    Sept 18, 2026. [Slides](./talks/cambridge2026-pure-borrow-talk.pdf)
+    ([Keynote](./talks/cambridge2026-pure-borrow-talk.key)).
 - _Yusuke Matsushita_\*, Kengo Hirata\*, Ryo Wakizaka and Emanuele
     D'Osualdo (*: equal contribution). \
   [__RapunSL__: Untangling Quantum Computing with Separation, Linear Combination
