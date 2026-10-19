@@ -4,7 +4,7 @@
 
 ![Yusuke MATSUSHITA Face Photo](./img/yusuke-distinguished-paper.jpeg){ width=150px } \
 
-(Last updated: Sept 26, 2026)
+(Last updated: Oct 19, 2026)
 
 I am a software scientist working as a Program-Specific Assistant Professor at
   [the Hakubi Center for Advanced Research](https://www.hakubi.kyoto-u.ac.jp/en)
@@ -28,7 +28,7 @@ I specialize in formal verification of stateful programs, especially those
   [LinkedIn](https://www.linkedin.com/in/yusuke-matsushita-2748b11a1/) \
 Email: ysk.m24t@gmail.com
 
-[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Sept 5, 2026)
+[Curriculum Vitae](./cv/yusuke-matsushita-cv.pdf) (Last updated: Oct 19, 2026)
 
 ## Work
 
@@ -85,8 +85,10 @@ Email: ysk.m24t@gmail.com
 - Takashi Nagatomi, Musashi Katsura, Naoki Kobayashi, _Yusuke Matsushita_ and
     Ken Sakayori. \
   Prophecy-Based Automated Verification of Message-Passing Programs. \
-  [__CONCUR 2026__](https://confest-2026.github.io/concur/). June 1–4, 2026. \
-  Paper: [arXiv](https://arxiv.org/abs/2606.28066).
+  [__CONCUR 2026__](https://confest-2026.github.io/concur/). Sept 1–5, 2026. \
+  Paper:
+    [Dagstuhl](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2026.43),
+    [arXiv](https://arxiv.org/abs/2606.28066).
 - [Masataka Yoneda, _Yusuke Matsushita_, Go Kamoda, Kohei Suenaga,
     Takuya Akiba, Masaki Waga and Sho Yokoi. \
   __SoftMatcha 2__: A Fast and Soft Pattern Matcher for Trillion-Scale
@@ -96,7 +98,8 @@ Email: ysk.m24t@gmail.com
     [Demo](http://softmatcha-2.s3-website-ap-northeast-1.amazonaws.com/),
     [Code](https://github.com/softmatcha/softmatcha2),
     [OpenReview](https://openreview.net/forum?id=y1czGbUum5). \
-  Paper: [OpenReview](https://openreview.net/pdf?id=y1czGbUum5),
+  Paper: [PMLR](https://proceedings.mlr.press/v306/yoneda26a.html),
+    [OpenReview](https://openreview.net/pdf?id=y1czGbUum5),
     [arXiv](https://arxiv.org/abs/2602.10908). \
   Poster: [Web page](https://icml.cc/virtual/2026/poster/60653),
     [PNG](https://icml.cc/media/PosterPDFs/ICML%202026/60653.png).
